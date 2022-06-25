@@ -1,0 +1,12 @@
+Top 15 most common satellite websites to gain pictures:
+https://gisgeography.com/free-satellite-imagery-data-list/
+
+
+Sentinel Open Access Hub__________
+link:
+    - https://scihub.copernicus.eu/dhus/#/home
+tutorial how to use:
+    - https://www.youtube.com/watch?v=AkA0ya3A9lU
+
+
+__________________________________
