@@ -1,0 +1,90 @@
+Sl.No,Irrigation Category,Power Station,Year of Operation,Installed capacity M.W,Generation during the year 2012-13 M.U,Consumption Auxiliaries in M.U,Net Generation in M.U
+1,Hydro,Pykara,1954,58.95,39.617,0.346,39.27
+2,Hydro,Pykara Micro Hydel,1989,2,3.691,0.074,3.617
+3,Hydro,Pushep,2005,150,195.094,1.685,193.409
+4,Hydro,Moyar,1953,36,78.017,0.549,77.468
+5,Hydro,Maravakandi Micro Hydel,1992,0.8,0.756,0.065,0.692
+6,Hydro,Parsonsvalley,2000,30,30.172,0.16,30.012
+7,Hydro,Kundah - 1,1964,60,181.296,0.707,180.589
+8,Hydro,Kundah - 2,1964,175,453.954,0.78,453.174
+9,Hydro,Kundah - 3,1978,180,264.472,1.636,262.836
+10,Hydro,Kundah - 4,1978,100,71.097,0.266,70.831
+11,Hydro,Kundah - 5,1988,40,43.129,0.41,42.719
+12,Hydro,Mettur Dam,1946,50,83.313,0.262,83.051
+13,Hydro,Mettur Tunnel,1966,200,120.242,0.472,119.77
+14,Hydro,LMHEP-Barrage-1,1987,30,46.64,0.763,45.877
+15,Hydro,LMHEP-Barrage-2,1988,30,41.082,0.717,40.366
+16,Hydro,LMHEP-Barrage-3,1987,30,40.75,1.06,39.69
+17,Hydro,LMHEP-Barrage-4,1988,30,30.851,0.753,30.098
+18,Hydro,Bhavani Kattalai PH – 1,2006,30,70.915,0.776,70.139
+19,Hydro,Bhavani Kattalai PH – 2,2011,30,NA,NA,NA
+20,Hydro,Bhavanisagar RBC,1998,8,0.064,0.007,0.057
+21,Hydro,Bhavani Sagar Micro Hydel,1990,8,16.178,0.111,16.067
+22,Hydro,Poonachi Micro,1992,2,1.696,0.034,1.662
+23,Hydro,Sathanur Micro,1999,7.5,5.081,0.042,5.04
+24,Hydro,Mukurthy Micro,2000,0.7,1.147,0.026,1.12
+25,Hydro,Thirumoorthy Micro,2000,2,1.964,0.026,1.938
+26,Hydro,Lower Aliyar,2002,2.5,4.022,0.047,3.975
+27,Hydro,Amaravathy,2006,4,2.282,0.057,2.225
+28,Hydro,Perunchani,2006,1.3,0.244,0.007,0.237
+29,Hydro,Periyar,1965,154,179.084,1.156,177.928
+30,Hydro,Vaigai Micro Hydel ,1990,6,3.201,0.085,3.116
+31,Hydro,Periyar Vaigai Micro Hydel I & II,2010 to 2012,6.5,1.862,0.055,1.807
+32,Hydro,Suruliyar,1986,35,49.361,0.28,49.081
+33,Hydro,Papanasam,1951,32,63.248,0.607,62.641
+34,Hydro,Servalar,1987,20,9.604,0.058,9.546
+35,Hydro,Sarkarpathy,1966,30,83.68,0.091,83.589
+36,Hydro,Aliyar,1970,60,76.68,0.449,76.231
+37,Hydro,Kadamparai,1988,400,302.063,4.759,297.304
+38,Hydro,Sholayar-1,1971,70,145.446,0.365,145.081
+39,Hydro,Sholayar-2,1971,25,56.529,0.171,56.358
+40,Hydro,Kodayar-1,1971,60,74.983,0.25,74.733
+41,Hydro,Kodayar-2,1971,40,31.436,0.147,31.289
+42,Hydro,Total Hydro,NA,2237.25,2904.94,20.312,2884.63
+43,THERMAL,Ennore TPS,1970,450,735.827,125.595,610.232
+44,THERMAL,North Chennai TPS,1994,630,5059.48,425.974,4633.506
+45,THERMAL,Tuticorin TPS,1979 to 1991,1050,8282.14,661.655,7620.485
+46,THERMAL,Mettur TPS,1990,840,6200.349,515.895,5684.454
+47,THERMAL,NCTPS Stage-II (Infirm) ,NA,NA,20.678,NA,NA
+48,THERMAL,NCTPS Stage-III (Infirm) ,NA,NA,364.921,NA,NA
+49,THERMAL,Total Thermal,NA,2970,20663.39,1729.119,18548.7
+50,Gas,Basin Bridge,1996,120,0.4164,2.587,-2.1702
+51,Gas,Kovil Kalappal,2001,107.88,726.735,48.363,678.372
+52,Gas,Vazhuthur,2003,95,449.411,27.727,421.6841
+53,Gas,Valuthur phase II,2008,92,488.018,32.981,455.0372
+54,Gas,Kuttalam,2004,101,55.837,6.365,49.472
+55,Gas,Sub Total Wind Mill and Solar,NA,515.88,1720.4174,118.023,1602.3951
+56,Gas,TNEB,NA,17.55,12.66,NA,12.66
+57,Central Sector-Purchase,Neyveli TPS 1,1962,600/475,3188.415,NA,NA
+58,Central Sector-Purchase,Neyveli TPS 1-Expansion,2003,420/226,1629.1,NA,NA
+59,Central Sector-Purchase,Neyveli TPS 2,1986,1470/474,3291.147,NA,NA
+60,Central Sector-Purchase,MAPS Nuclear,1983,440/331,1774.498,NA,NA
+61,Central Sector-Purchase,Kaiga Nuclear (Karnataka),2000,880/227,1261.335,NA,NA
+62,Central Sector-Purchase,Ramagundam STPS(A.P),1984,2100/544,4149.469,NA,NA
+63,Central Sector-Purchase,Ramagundam STPS(A.P) U7,2005,500/136,981.057,NA,NA
+64,Central Sector-Purchase,ER power,NA,50,318.785,NA,NA
+65,Central Sector-Purchase,Talcher St-2,2003-05,2000/503,3405.012,NA,NA
+66,Central Sector-Purchase,SIMHADRI St-2,NA,500/229,1079.123,NA,NA
+67,Central Sector-Purchase,NTPC Kayamkulam(TNEB),2012,500/375,488.265,NA,NA
+68,Central Sector-Purchase,Dadri (un allocated power),NA,NA,29.363,NA,NA
+69,Central Sector-Purchase,UI Energy,NA,NA,81.733,NA,NA
+70,Central Sector-Purchase,Sub Total,NA,3570,21677.302,NA,NA
+71,Private Sector – Purchases,GMR,1998,196,609.997,NA,NA
+72,Private Sector – Purchases,Samalpatti,2001,105.66,329.141,NA,NA
+73,Private Sector – Purchases,Madurai Power Corp.Ltd,2001,106,356.759,NA,NA
+74,Private Sector – Purchases,Pillai Perumal Nallur,2001,330.5,1785.275,NA,NA
+75,Private Sector – Purchases,STCMS,2002,250,1665.299,NA,NA
+76,Private Sector – Purchases,Aban,2005,113.21,850.338,NA,NA
+77,Private Sector – Purchases,Pioneer (Penna),2006,52.8,375.487,NA,NA
+78,Private Sector – Purchases,CPP purchase through traders,NA,NA,3826.709,NA,NA
+79,Private Sector – Purchases,Co-Generation,NA,659.4,1427.924,NA,NA
+80,Private Sector – Purchases,Wind Mill (Pvt.) ,NA,7145.225,12935.578,NA,NA
+81,Private Sector – Purchases,Bio-mass,NA,177.4,11.368,NA,NA
+82,Private Sector – Purchases,Solar Private,NA,17,16.123,NA,NA
+83,Private Sector – Purchases,Trading Purchase (Bilateral),NA,NA,2673.102,NA,NA
+84,Private Sector – Purchases,Trading Purchase (Exchange),NA,NA,359.988,NA,NA
+85,Private Sector – Purchases,Trading Purchase (Case 1 bidding),NA,NA,65.077,NA,NA
+86,Private Sector – Purchases,Swap receipt,NA,NA,10.418,NA,NA
+87,Private Sector – Purchases,Swap return and Swap banking and sale,NA,NA,-0.269,NA,NA
+88,Private Sector – Purchases,Total Installed capacity,NA,10515,74871.877,NA,NA
+89,Private Sector – Purchases,Total Installed capacity (infirm),NA,7999,NA,NA,NA

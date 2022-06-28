@@ -1,0 +1,101 @@
+S.No,Type of Power Station,Name of Power Station,Year of operation in 2017-18,Installed Capacity in 2017-18 (in MW),Generation in 2017-18 (in MU),Auxiliary Consumption in 2017-18 (in MU),Net Generation in 2017-18 (in MU)
+1,Hydro,Pykara,1954,59.2,0.974,0.174,0.8
+2,Hydro,Pykara Micro Hydel,1989,2,4.865,0.133,4.732
+3,Hydro,PUSHEP,2005,150,274.104,2.092,272.012
+4,Hydro,Moyar,1953,36,94.389,0.522,93.867
+5,Hydro,Maravakandi Micro Hydel,1992,0.75,0.769,0.009,0.76
+6,Hydro,Kundah - 6 (Parsons Valley),2000,30,27.093,0.139,26.954
+7,Hydro,Kundah - 1,1964,60,125.556,0.731,124.825
+8,Hydro,Kundah - 2,1964,175,374.562,0.757,373.805
+9,Hydro,Kundah - 3,1978,180,183.964,1.718,182.246
+10,Hydro,Kundah - 4,1978,100,76.317,0.147,76.17
+11,Hydro,Kundah - 5,1988,40,46.049,0.217,45.832
+12,Hydro,Mettur Dam,1946,50,52.208,1.82,50.388
+13,Hydro,Mettur Tunnel,1966,200,163.319,0.498,162.821
+14,Hydro,LMHEP - Barrage - 1,1987,30,29.487,0.634,28.853
+15,Hydro,LMHEP - Barrage - 2,1988,30,30.083,0.509,29.574
+16,Hydro,LMHEP - Barrage - 3,1987,30,39.444,0.574,38.87
+17,Hydro,LMHEP - Barrage - 4,1988,30,32.347,0.397,31.95
+18,Hydro,"Bhavani Kattalai PH - 1, PH - 2 and PH - 3","2006, 2012 and 2013",90,75.808,1.214,74.594
+19,Hydro,Bhavani Barrage 2 PH,2012,10,2.806,NA,NA
+20,Hydro,Bhavani Barrage PH,2013,10,4.071,NA,NA
+21,Hydro,Bhavanisagar RBC,1988,8,4.566,0.024,4.542
+22,Hydro,Bhavani Sagar Micro Hydel,1990,8,14.962,0.097,14.865
+23,Hydro,Poonachi Micro,1992,2,0.448,0.028,0.42
+24,Hydro,Sathanur Micro,1999,7.5,13.214,0.066,13.148
+25,Hydro,Mukurthy Micro,2000,0.7,0.777,0.017,0.76
+26,Hydro,Thirumoorthy Micro,2000,1.95,1.802,0.022,1.78
+27,Hydro,Lower Aliyar,2002,2.5,3.312,0.028,3.284
+28,Hydro,Amaravathy,2006,4,4.88,0.083,4.797
+29,Hydro,Perunchani,2006,1.3,0.134,0.014,0.12
+30,Hydro,Periyar,1965,168,287.1,0.875,286.225
+31,Hydro,Vaigai Micro Hydel,1990,6,6.69,0.112,6.578
+32,Hydro,"Periyar Vaigai Micro, I, II and III",2010,13,19.169,0.244,18.925
+33,Hydro,Suruliyar,1986,35,70.692,0.347,70.345
+34,Hydro,Papanasam,1951,32,114.83,0.723,114.107
+35,Hydro,Servalar,1987,20,26.493,0.086,26.407
+36,Hydro,Sarkarpathy,1966,30,85.458,0.089,85.369
+37,Hydro,Aliyar,1970,60,90.129,0.38,89.749
+38,Hydro,Kadamparai,1988,400,384.333,3.032,381.301
+39,Hydro,Sholayar - 1,1971,70,101.922,0.684,101.238
+40,Hydro,Sholayar - 2,1971,25,60.663,0.237,60.426
+41,Hydro,Kodayar - 1,1971,60,82.51,0.397,82.113
+42,Hydro,Kodayar - 2,1971,40,50.35,0.154,50.196
+Total,Hydro,Total Hydro,NA,2307.9,3062.648,20.024,3035.749
+43,Thermal,Ennore TPS,1970,0,NA,NA,NA
+44,Thermal,North Chennai TPS-1,1994,630,4204.63,380.491,3824.139
+45,Thermal,Tuticorin TPS,1979-1991,1050,5247.18,434.363,4812.817
+46,Thermal,Mettur TPS - 1,1990,840,5107.734,441.062,4666.672
+47,Thermal,NCTPS Stage - II,2014,1200,5858.04,410.57,5447.47
+48,Thermal,MTPS Stage - III,2013,600,2450.86,177.801,2273.059
+Total,Thermal,Total Thermal,NA,4320,22868.444,1844.287,21024.157
+49,Gas,Basin Bridge,1996,120,6.141,0.918,5.223
+50,Gas,Kovil Kalappal,2001,107.9,302.468,36.817,265.651
+51,Gas,Vazhuthur Phase I,2003,95,677.136,41.066,636.07
+52,Gas,Vazhuthur Phase II,2008,92.2,600.102,35.785,564.317
+53,Gas,Kuttalam,2004,101,349.483,44.263,305.22
+54,(Wind Mill + Solar),TNEB,NA,NA,6.915,NA,6.915
+Total,Gas,Total Gas,NA,516.08,1942.245,158.849,1783.396
+55,Central Sector-Purchases,Neyveli TPS 1,1962,475,2710.293,NA,NA
+56,Central Sector-Purchases,Neyveli TPS 1 - Expansion,2003,227,1110.474,NA,NA
+57,Central Sector-Purchases,Neyveli TPS 2,1986,464,2162.222,NA,NA
+58,Central Sector-Purchases,MAPS,1983,330,1871.926,NA,NA
+59,Central Sector-Purchases,KAPS,2000,219,1725.457,NA,NA
+60,Central Sector-Purchases,Ramagundam Stage 1 and 2,1984,488,3165.663,NA,NA
+61,Central Sector-Purchases,Ramagundam Stage 3,2005,122,867.677,NA,NA
+62,Central Sector-Purchases,ER Power,NA,35,315.294,NA,NA
+63,Central Sector-Purchases,Talcher Stage - 2,2003-2005,482,3370.861,NA,NA
+64,Central Sector-Purchases,Simhadri Stage - 2,2011,208,1140.657,NA,NA
+65,Central Sector-Purchases,Vallur NTECL,2012,1059,4672.693,NA,NA
+66,Central Sector-Purchases,Kudankulam NPCIL,2014,1153,4548.4,NA,NA
+67,Central Sector-Purchases,Neyveli TPS - 2 Expansion,2015,271,851.1,NA,NA
+68,Central Sector-Purchases,NLC Tamil Nadu Power Ltd (NTPL),2015,407,2038.292,NA,NA
+69,Central Sector-Purchases,Kudgi,2017,212,435.012,NA,NA
+70,Central Sector-Purchases,Solar bundled NVVN Power from NTPC stations,NA,NA,31.88,NA,NA
+71,Central Sector-Purchases,Deviation Settlement Mechanism (inter state+Intra state),NA,NA,-36.212,NA,NA
+Total,Central Sector-Purchases,Sub Total,NA,6152,30981.69,NA,NA
+72,Private Sector-Purchases,PPN Power Generating Company Private Limited,2001,330.5,-6.423,NA,NA
+73,Private Sector-Purchases,TAQA Neyveli Power Company Private Limited,2002,250,921.257,NA,NA
+74,Private Sector-Purchases,Lanco Tanjore Power Company Limited,2005,113.2,469.439,NA,NA
+75,Private Sector-Purchases,Pioneer Power Limited,2006,52.8,370.862,NA,NA
+Total,Private Sector-Purchases,Sub Total,NA,746.5,1755.1,NA,NA
+76,NA,CPP direct,NA,1074.8,22.238,NA,NA
+77,NA,CPP Purchase through traders (STOA),NA,NA,51.96,NA,NA
+78,NA,Co-Generation,NA,NA,332.966,NA,NA
+79,NA,Wind Mill (Private),NA,NA,12671.023,NA,NA
+80,NA,Biomass,NA,NA,13.608,NA,NA
+81,NA,Solar (Private),NA,NA,2904.459,NA,NA
+82,NA,Trading Purchase (Bilateral),NA,NA,4793.737,NA,NA
+83,NA,Trading Purchase (Exchange),NA,NA,934.33,NA,NA
+84,NA,Trading Purchase (Case 1 bidding),NA,3630,15910.88,NA,NA
+85,NA,Swap receipt,NA,NA,819.212,NA,NA
+86,NA,Swap return / Swap Banking / sale,NA,NA,0,NA,NA
+87,NA,Total wheeling quantum by HT,NA,NA,7452.028,NA,NA
+88,NA,Power sale to other states by TANGEDCO,NA,NA,-16.999,NA,NA
+89,NA,Power sale to other states by Private generators,NA,NA,-294.96,NA,NA
+90,NA,TNEB Generation towards Inter State Sale,NA,NA,16.999,NA,NA
+91,NA,CPP Power injected towards Inter State Sale,NA,NA,294.96,NA,NA
+92,NA,Total Installed capacity (firm),NA,18747.28,NA,NA,NA
+93,NA,Total Installed capacity (infirm),NA,11112.71,NA,NA,NA
+94,NA,Instaneous Power Demand met,NA,NA,15240,NA,NA
+95,NA,Sustained Power Demand met,NA,NA,15230,NA,NA

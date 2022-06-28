@@ -1,0 +1,15 @@
+Sl.No,Tariff,Consumers,Consumers as on 31-03-2017 (in lakhs),Connected Load As on 31-03-2017 (MW)
+1,(I to V),H.T. (Including sale to traders),0.09,9039.92
+2,I-A,LT - Domestic,195.71,27712.53
+3,I-B,LT - Huts,11.25,214.97
+4,I-C,LT - Bulk Supply,0.01,3.1
+5,II-A,LT - Public Lighting & Water Supply,7.17,1332.27
+6,"II-B1, II-B2",LT - Recognised Educational Institutions & Private Educational Institutions,1,479.3
+7,II-C,LT - Actual places of public worship,1.23,149.43
+8,III-A(1),LT - Cottage and Tiny Industries,1.39,553.96
+9,III-A(2),LT - Power looms,1.53,624.15
+10,III-B,LT - Industries,3.67,9512.17
+11,IV.,LT - Agriculture,20.73,8657.73
+12,V.,LT - Commercial,33.49,8273.06
+13,VI,LT - Temporary Supply ,1.99,412.37
+Total,All Tariffs,Total Consumers,279.26,66964.96
