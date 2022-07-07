@@ -1,0 +1,105 @@
+Sl.No,Type of Power Station,Name of power station,Year of operation,Installed Capacity in MW,Generation in MU,Auxiliary Consumption in MU,Net Generation in MU
+1,Hydro,Pykara,1954,59.2,12.735,0.237,12.498
+2,Hydro,Pykara Micro Hydel,1989,2,3.38,0.079,3.301
+3,Hydro,PUSHEP,2005,150,193.32,1.567,191.753
+4,Hydro,Moyar,1953,36,61.495,12.522,48.973
+5,Hydro,Maravakandi Micro Hydel,1992,0.75,0.327,0.006,0.321
+6,Hydro,Kundah - 6 (Parsons valley),2000,30,24.106,0.12,23.986
+7,Hydro,Kundah - 1,1964,60,160.996,4.186,156.81
+8,Hydro,Kundah - 2,1964,175,407.088,1.011,406.077
+9,Hydro,Kundah - 3,1978,180,215.244,1.824,213.42
+10,Hydro,Kundah - 4,1978,100,47.348,0.177,47.171
+11,Hydro,Kundah - 5,1988,40,43.421,0.206,43.215
+12,Hydro,Mettur Dam,1946,50,44.533,0.371,44.162
+13,Hydro,Mettur Tunnel,1966,200,80.718,0.368,80.35
+14,Hydro,LMHEP-Barrage-1,1987,30,22.344,0.476,21.868
+15,Hydro,LMHEP-Barrage-2,1988,30,24.082,0.489,23.593
+16,Hydro,LMHEP-Barrage-3,1987,30,25.811,0.696,25.115
+17,Hydro,LMHEP-Barrage-4,1988,30,20.048,0.562,19.486
+18,Hydro,Bhavani Kattalai PH-1,2006,30,59.448,0.976,58.472
+19,Hydro,Bhavani Kattalai PH-2,2011,30,NA,NA,NA
+20,Hydro,Bhavani Kattalai PH-3,2013,30,NA,NA,NA
+21,Hydro,Bhavani Barrage 2 PH,2012,10,2.42,0,2.42
+22,Hydro,Bhavani Barrage PH,2015,10,2.62,0,2.62
+23,Hydro,Bhavanisagar RBC,1998,8,0,0.003,-0.003
+24,Hydro,Bhavani Sagar Micro Hydel,1990,8,18.292,0.1,18.192
+25,Hydro,Poonachi Micro,1992,2,1.749,0.027,1.722
+26,Hydro,Sathanur Micro,1999,7.5,2.442,0.032,0.41
+27,Hydro,Mukurthy Micro,2000,0.7,0.278,0.016,0.262
+28,Hydro,Thirumoorthy Micro,2000,1.95,1.38,0.021,1.359
+29,Hydro,Lower Aliyar,2002,2.5,0,0.013,-0.013
+30,Hydro,Amaravathy,2006,4,0.834,0.055,0.77
+31,Hydro,Perunchani,2006,1.3,0,0.013,-0.013
+32,Hydro,Periyar,1965,168,93.91,0.819,93.091
+33,Hydro,Vaigai Micro Hydel,1990,6,1.748,0.094,1.654
+34,Hydro,"Periyar Vaigai Micro I, II & III",2010,13,1.982,0.105,1.877
+35,Hydro,Suruliyar,1986,35,42.211,0.293,41.918
+36,Hydro,Papanasam,1951,32,66.563,0.854,65.709
+37,Hydro,Servalar,1987,20,11.945,0.083,11.862
+38,Hydro,Sarkarpathy,1966,30,63.282,0.094,63.188
+39,Hydro,Aliyar,1970,60,61.724,0.502,61.221
+40,Hydro,Kadamparai,1988,400,289.115,2.375,286.74
+41,Hydro,Sholayar-1,1971,70,184.106,0.3,183.806
+42,Hydro,Sholayar-2,1971,25,42.768,0.191,42.577
+43,Hydro,Kodayar-1,1971,60,127.268,0.471,126.797
+44,Hydro,Kodayar-2,1971,40,42.144,0.133,42.011
+Total,Hydro,Total Hydro,NA,2307.9,2505.22,32.46,2470.75
+45,Thermal,Ennore TPS*,1970,0,192.001,47.843,144.158
+46,Thermal,North Chennai TPS-1,1994,630,3710.37,344.624,3365.746
+47,Thermal,Tuticorin TPS,1979-1991,1050,5547.59,457.935,5089.655
+48,Thermal,Mettur TPS-1,1990,840,5730.765,491.062,5239.703
+49,Thermal,NCTPS Stage - II,2013,1200,6381.85,469.454,5912.396
+50,Thermal,MTPS Stage - II,2013,600,3446.61,233.911,3212.699
+Total,Thermal,Total Thermal,NA,4320,25009.186,2044.829,22964.357
+51,Gas,Basin Bridge,1996,120,11.124,0.655,10.469
+52,Gas,Kovil Kalappal,2001,107.88,247.979,39.012,308.967
+53,Gas,Vazhuthur Phase I,2003,95,688.166,40.912,647.254
+54,Gas,Valuthur Phase II,2008,92.2,278.482,18.742,259.74
+55,Gas,Kuttalam (Wind Mill + Solar),2004,101,376.505,40.578,335.927
+56,Gas,TNEB,NA,NA,6.462,0,0
+Total,Gas,SubTotal Gas,NA,516.08,1608.72,139.89,1562.35
+57,Central Sector-Purchases,Neyveli TPS 1,1962,600/475,3004.625,NA,NA
+58,Central Sector-Purchases,Neyveli TPS 1-Expansion,2003,420/227,1311.255,NA,NA
+59,Central Sector-Purchases,Neyveli TPS 2,1986,1470/471,2655.137,NA,NA
+60,Central Sector-Purchases,MAPS,1983,440/331,2059.197,NA,NA
+61,Central Sector-Purchases,KAPS,2000,880/226,1536.06,NA,NA
+62,Central Sector-Purchases,Ramagundam Stage 1 & 2,1984,2100/526,3550.491,NA,NA
+63,Central Sector-Purchases,Ramagundam Stage 3,2005,500/132,823.059,NA,NA
+64,Central Sector-Purchases,ER Power,NA,35,375.847,NA,NA
+65,Central Sector-Purchases,Talcher Stage-2,2003-2005,2000/489,3357.204,NA,NA
+66,Central Sector-Purchases,Simhadri Stage-2,2011,1000/224,1211.869,NA,NA
+67,Central Sector-Purchases,Vallur NTECL,2012,1500/1065,6030.98,NA,NA
+68,Central Sector-Purchases,Kudankulam NPCIL,2014,2000/1152.5,4374.256,NA,NA
+69,Central Sector-Purchases,Neyveli TPS-2 Expansion,2015,500/271,606.74,NA,NA
+70,Central Sector-Purchases,NLC TamilNadu Power Ltd (NTPL).,2015,1000/413,2262.568,NA,NA
+71,Central Sector-Purchases,Solar bundled NVVN Power from NTPC stations,NA,NA,35.496,NA,NA
+72,Central Sector-Purchases,Devition Settlement Mechanism (inter state + intra state),NA,NA,-997.632,NA,NA
+73,Central Sector-Purchases,Intra state deviation Settlement Mechanism,NA,NA,-36.545,NA,NA
+Total,Central Sector-Purchases,Sub Total Central Sector-Purchases,NA,6037.5,32160.6,NA,NA
+73,Private Sector - Purchases,Samalpatti Power Company Pvt.Ltd.**,2001,NA,0,NA,NA
+74,Private Sector - Purchases,Madurai Power Corporation Pvt.Ltd.,2001,0,11.307,NA,NA
+75,Private Sector - Purchases,PPN Power Generating Company Pvt.Ltd.,2001,330.5,195.885,NA,NA
+76,Private Sector - Purchases,TAQA Neyveli Power Company Pvt.Ltd.,2002,250,1023.185,NA,NA
+77,Private Sector - Purchases,Lanco Tanjore Power Company Ltd.,2005,113.2,483.447,NA,NA
+78,Private Sector - Purchases,Pioneer Power Ltd.,2006,52.8,373.789,NA,NA
+Total,Private Sector - Purchases,Sub Total,NA,NA,2087.613,NA,NA
+79,NA,CPP direct,NA,0,24.656,NA,NA
+80,NA,CPP Purchase through traders.(STOA),NA,NA,590.209,NA,NA
+81,NA,Co-Generation ***,NA,692.4,611.335,NA,NA
+82,NA,Wind Mill (Pvt)***,NA,7854.81,12064.489,NA,NA
+83,NA,Bio-mass***,NA,230,22.707,NA,NA
+84,Solar (Pvt)***,STOA Inter state,NA,1702.4,1887.668,NA,NA
+85,Solar (Pvt)***,Trading Purchase (Bilateral),NA,NA,3197.386,NA,NA
+86,Solar (Pvt)***,Trading Purchase (Exchange),NA,NA,155.121,NA,NA
+87,Solar (Pvt)***,Trading Purchase (Case 1 bidding),NA,3730,16324.82,NA,NA
+88,Solar (Pvt)***,Swap receipt,NA,NA,0,NA,NA
+89,Solar (Pvt)***,Swap return / Swap,NA,NA,0,NA,NA
+90,Solar (Pvt)***,Banking / sale,NA,NA,NA,NA,NA
+91,NA,Total wheeling quantum by HT,NA,NA,7377.848,NA,NA
+92,NA,Power sale to other states by TANGEDCO,NA,NA,-35.52,NA,NA
+93,Power sale to other states by Pvt.generators,Power sale to other states by Pvt.generators,NA,NA,-540.297,NA,NA
+94,Power sale to other states by Pvt.generators,Total Installed capacity (firm).,NA,18732.78,NA,NA,NA
+95,Power sale to other states by Pvt.generators,Total Installed capacity (infirm).***,NA,10479.61,NA,NA,NA
+96,Power sale to other states by Pvt.generators,Power Demand,NA,29212.39,NA,NA,NA
+97,Power sale to other states by Pvt.generators,Instaneous Demand met,NA,NA,NA,15343 MW / 29.4.2016,NA
+98,Power sale to other states by Pvt.generators,Sustained Demand met,NA,NA,NA,15240 MW / 29.4.2016,NA
