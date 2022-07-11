@@ -1,26 +1,27 @@
-Hydro,Pykara,1954,59.2,33.07,0.174,32.896
-Hydro,Moyar,1953,36,157.42,0.522,156.898
-Hydro,Kundah - 1,1964,60,330.03,0.731,329.299
-Hydro,Kundah - 2,1964,175,873.74,0.757,872.983
-Hydro,Kundah - 3,1978,180,566.98,1.718,565.262
-Hydro,Kundah - 4,1978,100,273.42,0.147,273.273
-Hydro,Kundah - 5,1988,40,78.1,0.217,77.883
-Hydro,Mettur Dam,1946,50,188.5,1.82,186.68
-Hydro,Mettur Tunnel,1966,200,625.85,0.498,625.352
-Hydro,LMHEP - Barrage - 1,1987,30,118,0.634,117.366
-Hydro,LMHEP - Barrage - 2,1988,30,108.76,0.509,108.251
-Hydro,LMHEP - Barrage - 3,1987,30,116.59,0.574,116.016
-Hydro,LMHEP - Barrage - 4,1988,30,98.8,0.397,98.403
-Hydro,"Bhavani Kattalai PH - 1, PH - 2 and PH - 3","2006, 2012 and 2013",90,126.53,1.214,125.316
-Hydro,Bhavani Barrage 2 PH,2012,10,127.41,0,127.41
-Hydro,Bhavani Barrage PH,2013,10,99.38,0,99.38
-Hydro,Periyar,1965,168,1040.04,0.875,1039.165
-Hydro,Suruliyar,1986,35,101.42,0.347,101.073
-Hydro,Papanasam,1951,32,217.57,0.723,216.847
-Hydro,Aliyar,1970,60,95,0.38,94.62
-Hydro,Kadamparai,1988,400,447.64,3.032,444.608
-Hydro,Kodayar - 1,1971,60,141.06,0.397,140.663
-Hydro,Kodayar - 2,1971,40,91.48,0.154,91.326
-Thermal,Tuticorin TPS,1979-1991,1050,6809.07,434.363,6374.707
-Gas,Kovil Kalappal,2001,107.9,193.26,36.817,156.443
-Gas,Kuttalam,2004,101,469.84,44.263,425.577
+S.No,Type of Power,Power Station,Year of Operation,Installed capacity(M.W),Generation during the year,Consumption Auxiliaries in M.U,Net Generation in M.U
+1,Hydro,Pykara,1954,59.2,33.07,0.174,32.896
+2,Hydro,Moyar,1953,36,157.42,0.522,156.898
+3,Hydro,Kundah - 1,1964,60,330.03,0.731,329.299
+4,Hydro,Kundah - 2,1964,175,873.74,0.757,872.983
+5,Hydro,Kundah - 3,1978,180,566.98,1.718,565.262
+6,Hydro,Kundah - 4,1978,100,273.42,0.147,273.273
+7,Hydro,Kundah - 5,1988,40,78.1,0.217,77.883
+8,Hydro,Mettur Dam,1946,50,188.5,1.82,186.68
+9,Hydro,Mettur Tunnel,1966,200,625.85,0.498,625.352
+10,Hydro,LMHEP - Barrage - 1,1987,30,118,0.634,117.366
+11,Hydro,LMHEP - Barrage - 2,1988,30,108.76,0.509,108.251
+12,Hydro,LMHEP - Barrage - 3,1987,30,116.59,0.574,116.016
+13,Hydro,LMHEP - Barrage - 4,1988,30,98.8,0.397,98.403
+14,Hydro,"Bhavani Kattalai PH - 1, PH - 2 and PH - 3","2006, 2012 and 2013",90,126.53,1.214,125.316
+15,Hydro,Bhavani Barrage 2 PH,2012,10,127.41,0,127.41
+16,Hydro,Bhavani Barrage PH,2013,10,99.38,0,99.38
+17,Hydro,Periyar,1965,168,1040.04,0.875,1039.165
+18,Hydro,Suruliyar,1986,35,101.42,0.347,101.073
+19,Hydro,Papanasam,1951,32,217.57,0.723,216.847
+20,Hydro,Aliyar,1970,60,95,0.38,94.62
+21,Hydro,Kadamparai,1988,400,447.64,3.032,444.608
+22,Hydro,Kodayar - 1,1971,60,141.06,0.397,140.663
+23,Hydro,Kodayar - 2,1971,40,91.48,0.154,91.326
+24,Thermal,Tuticorin TPS,1979-1991,1050,6809.07,434.363,6374.707
+25,Gas,Kovil Kalappal,2001,107.9,193.26,36.817,156.443
+26,Gas,Kuttalam,2004,101,469.84,44.263,425.577
