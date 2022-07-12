@@ -1,16 +1,16 @@
-Tariff,Consumers,Consumers as on 31-03-2016 (in lakhs),Connected Load as on 31.03.2016 (MW)
-(I tO V),H.T. (Including sale to traders),0.09,9088
-(I tO V),LT,NA,NA
-I-A,Domestic,189.94,25874
-I-B,Huts,11.37,219
-I-C,Bulk Supply,0.01,443
-II-A,Public Lighting & Water Supply,7.09,856
-"II-B1, II-B2",Recognised Educational Institutions & Private Educational Institutions,1,450
-II-C,Actual places of public worship,1.22,141
-III-A(1),Cottage and Tiny Industries,1.27,508
-III-A(2),Power looms,1.49,603
-III-B,Industries,3.64,9001
-IV,Agriculture,20.6,8490
-V,Commercial,31.08,7899
-VI,Temporary Supply,1.46,310
-Total,Total Consumers,270.26,63882
+S.No,Tariff,Consumers,Consumers as on 31-03-2016,Connected Load as on 31.03.2016 (MW)
+1,(I tO V),H.T. (Including sale to traders),9000,9088
+2,(I tO V),LT,0,0
+3,I-A,Domestic,18994000,25874
+4,I-B,Huts,1137000,219
+5,I-C,Bulk Supply,1000,443
+6,II-A,Public Lighting & Water Supply,709000,856
+7,"II-B1, II-B2",Recognised Educational Institutions & Private Educational Institutions,100000,450
+8,II-C,Actual places of public worship,122000,141
+9,III-A(1),Cottage and Tiny Industries,127000,508
+10,III-A(2),Power looms,149000,603
+11,III-B,Industries,364000,9001
+12,IV,Agriculture,2060000,8490
+13,V,Commercial,3108000,7899
+14,VI,Temporary Supply,146000,310
+Total,Total,Total Consumers,27026000,63882

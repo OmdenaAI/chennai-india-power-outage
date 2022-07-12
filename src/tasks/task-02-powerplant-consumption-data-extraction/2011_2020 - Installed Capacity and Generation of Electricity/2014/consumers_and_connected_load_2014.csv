@@ -1,4 +1,4 @@
-Sl.No,Category,Consumer (Nos)as on 31-03-2013,Connected Load (MW) as on 31-03-2013
+S.No,Category,Consumer (Nos)as on 31-03-2013,Connected Load (MW) as on 31-03-2013
 1,H.T Supply,"8,244",8149
 2,L.T Supply-Domestic,"1,62,52,879","20,112"
 3,L.T Supply-Public Lighting,"3,65,249",272
@@ -6,7 +6,7 @@ Sl.No,Category,Consumer (Nos)as on 31-03-2013,Connected Load (MW) as on 31-03-20
 5,L.T Supply-Industry,"5,76,657","9,817"
 6,L.T Supply-Agriculture,"20,33,455","8,282"
 7,L.T Supply-Huts,"14,45,029",109
-8,L.T Supply-Education etc.,","1,16,109",377
+8,L.T Supply-Education etc.,"1,16,109",377
 9,L.T Supply-Commercial,"32,50,570","6,253"
 10,L.T Supply-Others,"1,04,826",137
 Total,All Categories,2,43,511,94","54,200
