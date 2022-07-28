@@ -1,0 +1,625 @@
+,Type,Name,variable,value,Year
+0,Gas,Basin Bridge,Net Generation of 2010(M.U),79.16,2010
+1,Gas,Kovil Kalappal,Net Generation of 2010(M.U),487.2,2010
+2,Gas,Vazhuthur,Net Generation of 2010(M.U),504.44,2010
+3,Gas,Vazhuthur phase II,Net Generation of 2010(M.U),504.44,2010
+4,Gas,Kuttalam,Net Generation of 2010(M.U),602.78,2010
+5,Hydro,Pykara,Net Generation of 2010(M.U),63.92,2010
+6,Hydro,Pykara Micro Hydel,Net Generation of 2010(M.U),9.61,2010
+7,Hydro,PUSHEP,Net Generation of 2010(M.U),557.3,2010
+8,Hydro,Moyar,Net Generation of 2010(M.U),210.97,2010
+9,Hydro,Maravakandi Micro Hydel,Net Generation of 2010(M.U),1.21,2010
+10,Hydro,Parsons valley,Net Generation of 2010(M.U),65.14,2010
+11,Hydro,Kundah - 1,Net Generation of 2010(M.U),278.02,2010
+12,Hydro,Kundah - 2,Net Generation of 2010(M.U),733.42,2010
+13,Hydro,Kundah - 3,Net Generation of 2010(M.U),435.92,2010
+14,Hydro,Kundah - 4,Net Generation of 2010(M.U),166.71,2010
+15,Hydro,Kundah - 5,Net Generation of 2010(M.U),84.98,2010
+16,Hydro,Mettur Dam,Net Generation of 2010(M.U),82.26,2010
+17,Hydro,Mettur Tunnel,Net Generation of 2010(M.U),388.63,2010
+18,Hydro,LMHEP-Barrage-1,Net Generation of 2010(M.U),80.07,2010
+19,Hydro,LMHEP-Barrage-2,Net Generation of 2010(M.U),75.79,2010
+20,Hydro,LMHEP-Barrage-3,Net Generation of 2010(M.U),76.44,2010
+21,Hydro,LMHEP-Barrage-4,Net Generation of 2010(M.U),62.46,2010
+22,Hydro,Bhavani Kattalai PH-1,Net Generation of 2010(M.U),74.5,2010
+23,Hydro,Bhavanisagar RBC,Net Generation of 2010(M.U),26.75,2010
+24,Hydro,Bhavani Sagar Micro Hydel,Net Generation of 2010(M.U),36.63,2010
+25,Hydro,Poonachi Micro,Net Generation of 2010(M.U),3.38,2010
+26,Hydro,Sathanur Micro,Net Generation of 2010(M.U),6.51,2010
+27,Hydro,Mukurthy Micro,Net Generation of 2010(M.U),2.18,2010
+28,Hydro,Thirumoorthy Micro,Net Generation of 2010(M.U),3.13,2010
+29,Hydro,Lower Aliyar,Net Generation of 2010(M.U),7.78,2010
+30,Hydro,Amaravathy,Net Generation of 2010(M.U),10.16,2010
+31,Hydro,Perunchani,Net Generation of 2010(M.U),2.34,2010
+32,Hydro,Periyar,Net Generation of 2010(M.U),394.75,2010
+33,Hydro,Vaigai Micro Hydel,Net Generation of 2010(M.U),10.37,2010
+34,Hydro,Suruliyar,Net Generation of 2010(M.U),98.63,2010
+35,Hydro,Papanasam,Net Generation of 2010(M.U),129.2,2010
+36,Hydro,Servalar,Net Generation of 2010(M.U),26.05,2010
+37,Hydro,Sarkarpathy,Net Generation of 2010(M.U),121.08,2010
+38,Hydro,Aliyar,Net Generation of 2010(M.U),165.69,2010
+39,Hydro,Kadamparai,Net Generation of 2010(M.U),496.72,2010
+40,Hydro,Sholayar-1,Net Generation of 2010(M.U),287.04,2010
+41,Hydro,Sholayar-2,Net Generation of 2010(M.U),63.52,2010
+42,Hydro,Kodayar-1,Net Generation of 2010(M.U),195.91,2010
+43,Hydro,Kodayar-2,Net Generation of 2010(M.U),83.17,2010
+44,Thermal,Ennore TPS,Net Generation of 2010(M.U),1217.64,2010
+45,Thermal,North Chennai TPS,Net Generation of 2010(M.U),4411.07,2010
+46,Thermal,Tuticorin TPS,Net Generation of 2010(M.U),6543.42,2010
+47,Thermal,Mettur TPS,Net Generation of 2010(M.U),5868.25,2010
+48,Gas,Basin Bridge,Net Generation of 2011(M.U),49.53,2011
+49,Gas,Kovil Kalappal,Net Generation of 2011(M.U),605.04,2011
+50,Gas,Vazhuthur,Net Generation of 2011(M.U),529.85,2011
+51,Gas,Vazhuthur phase II,Net Generation of 2011(M.U),2.6,2011
+52,Gas,Kuttalam,Net Generation of 2011(M.U),158.79,2011
+53,Hydro,Pykara,Net Generation of 2011(M.U),28.66,2011
+54,Hydro,Pykara Micro Hydel,Net Generation of 2011(M.U),5.47,2011
+55,Hydro,PUSHEP,Net Generation of 2011(M.U),428.72,2011
+56,Hydro,Moyar,Net Generation of 2011(M.U),154.91,2011
+57,Hydro,Maravakandi Micro Hydel,Net Generation of 2011(M.U),1.98,2011
+58,Hydro,Parsons valley,Net Generation of 2011(M.U),39.18,2011
+59,Hydro,Kundah - 1,Net Generation of 2011(M.U),218.18,2011
+60,Hydro,Kundah - 2,Net Generation of 2011(M.U),570.28,2011
+61,Hydro,Kundah - 3,Net Generation of 2011(M.U),335.15,2011
+62,Hydro,Kundah - 4,Net Generation of 2011(M.U),121.34,2011
+63,Hydro,Kundah - 5,Net Generation of 2011(M.U),58.65,2011
+64,Hydro,Mettur Dam,Net Generation of 2011(M.U),94.64,2011
+65,Hydro,Mettur Tunnel,Net Generation of 2011(M.U),265.37,2011
+66,Hydro,LMHEP-Barrage-1,Net Generation of 2011(M.U),70.98,2011
+67,Hydro,LMHEP-Barrage-2,Net Generation of 2011(M.U),65.98,2011
+68,Hydro,LMHEP-Barrage-3,Net Generation of 2011(M.U),66.53,2011
+69,Hydro,LMHEP-Barrage-4,Net Generation of 2011(M.U),56.16,2011
+70,Hydro,Bhavani Kattalai PH-1,Net Generation of 2011(M.U),71.22,2011
+71,Hydro,Bhavanisagar RBC,Net Generation of 2011(M.U),20.71,2011
+72,Hydro,Bhavani Sagar Micro Hydel,Net Generation of 2011(M.U),32.98,2011
+73,Hydro,Poonachi Micro,Net Generation of 2011(M.U),4.5,2011
+74,Hydro,Sathanur Micro,Net Generation of 2011(M.U),10.19,2011
+75,Hydro,Mukurthy Micro,Net Generation of 2011(M.U),1.44,2011
+76,Hydro,Thirumoorthy Micro,Net Generation of 2011(M.U),3.8,2011
+77,Hydro,Lower Aliyar,Net Generation of 2011(M.U),8.53,2011
+78,Hydro,Amaravathy,Net Generation of 2011(M.U),8.69,2011
+79,Hydro,Perunchani,Net Generation of 2011(M.U),2.68,2011
+80,Hydro,Periyar,Net Generation of 2011(M.U),428.74,2011
+81,Hydro,Vaigai Micro Hydel,Net Generation of 2011(M.U),15.14,2011
+82,Hydro,Suruliyar,Net Generation of 2011(M.U),97.75,2011
+83,Hydro,Papanasam,Net Generation of 2011(M.U),136.78,2011
+84,Hydro,Servalar,Net Generation of 2011(M.U),38.84,2011
+85,Hydro,Sarkarpathy,Net Generation of 2011(M.U),134.79,2011
+86,Hydro,Aliyar,Net Generation of 2011(M.U),162.92,2011
+87,Hydro,Kadamparai,Net Generation of 2011(M.U),568.95,2011
+88,Hydro,Sholayar-1,Net Generation of 2011(M.U),355.21,2011
+89,Hydro,Sholayar-2,Net Generation of 2011(M.U),56.96,2011
+90,Hydro,Kodayar-1,Net Generation of 2011(M.U),80.86,2011
+91,Hydro,Kodayar-2,Net Generation of 2011(M.U),64.17,2011
+92,Thermal,Ennore TPS,Net Generation of 2011(M.U),1175.99,2011
+93,Thermal,North Chennai TPS,Net Generation of 2011(M.U),4110.0,2011
+94,Thermal,Tuticorin TPS,Net Generation of 2011(M.U),6522.58,2011
+95,Thermal,Mettur TPS,Net Generation of 2011(M.U),5548.56,2011
+96,Gas,Basin Bridge,Net Generation of 2012(M.U),26.97,2012
+97,Gas,Kovil Kalappal,Net Generation of 2012(M.U),663.28,2012
+98,Gas,Vazhuthur,Net Generation of 2012(M.U),618.34,2012
+99,Gas,Vazhuthur phase II,Net Generation of 2012(M.U),333.63,2012
+100,Gas,Kuttalam,Net Generation of 2012(M.U),382.42,2012
+101,Hydro,Pykara,Net Generation of 2012(M.U),39.19,2012
+102,Hydro,Pykara Micro Hydel,Net Generation of 2012(M.U),5.83,2012
+103,Hydro,PUSHEP,Net Generation of 2012(M.U),354.19,2012
+104,Hydro,Moyar,Net Generation of 2012(M.U),131.12,2012
+105,Hydro,Maravakandi Micro Hydel,Net Generation of 2012(M.U),0.75,2012
+106,Hydro,Parsons valley,Net Generation of 2012(M.U),35.7,2012
+107,Hydro,Kundah - 1,Net Generation of 2012(M.U),217.45,2012
+108,Hydro,Kundah - 2,Net Generation of 2012(M.U),577.02,2012
+109,Hydro,Kundah - 3,Net Generation of 2012(M.U),348.08,2012
+110,Hydro,Kundah - 4,Net Generation of 2012(M.U),156.4,2012
+111,Hydro,Kundah - 5,Net Generation of 2012(M.U),52.94,2012
+112,Hydro,Mettur Dam,Net Generation of 2012(M.U),153.2,2012
+113,Hydro,Mettur Tunnel,Net Generation of 2012(M.U),470.73,2012
+114,Hydro,LMHEP-Barrage-1,Net Generation of 2012(M.U),107.58,2012
+115,Hydro,LMHEP-Barrage-2,Net Generation of 2012(M.U),101.61,2012
+116,Hydro,LMHEP-Barrage-3,Net Generation of 2012(M.U),105.48,2012
+117,Hydro,LMHEP-Barrage-4,Net Generation of 2012(M.U),83.95,2012
+118,Hydro,Bhavani Kattalai PH-1,Net Generation of 2012(M.U),82.48,2012
+119,Hydro,Bhavanisagar RBC,Net Generation of 2012(M.U),23.74,2012
+120,Hydro,Bhavani Sagar Micro Hydel,Net Generation of 2012(M.U),41.44,2012
+121,Hydro,Poonachi Micro,Net Generation of 2012(M.U),1.44,2012
+122,Hydro,Sathanur Micro,Net Generation of 2012(M.U),10.72,2012
+123,Hydro,Mukurthy Micro,Net Generation of 2012(M.U),1.48,2012
+124,Hydro,Thirumoorthy Micro,Net Generation of 2012(M.U),3.21,2012
+125,Hydro,Lower Aliyar,Net Generation of 2012(M.U),8.64,2012
+126,Hydro,Amaravathy,Net Generation of 2012(M.U),6.65,2012
+127,Hydro,Perunchani,Net Generation of 2012(M.U),0.93,2012
+128,Hydro,Periyar,Net Generation of 2012(M.U),533.25,2012
+129,Hydro,Vaigai Micro Hydel,Net Generation of 2012(M.U),23.54,2012
+130,Hydro,Suruliyar,Net Generation of 2012(M.U),115.18,2012
+131,Hydro,Papanasam,Net Generation of 2012(M.U),121.6,2012
+132,Hydro,Servalar,Net Generation of 2012(M.U),27.1,2012
+133,Hydro,Sarkarpathy,Net Generation of 2012(M.U),109.46,2012
+134,Hydro,Aliyar,Net Generation of 2012(M.U),173.91,2012
+135,Hydro,Kadamparai,Net Generation of 2012(M.U),506.53,2012
+136,Hydro,Sholayar-1,Net Generation of 2012(M.U),216.97,2012
+137,Hydro,Sholayar-2,Net Generation of 2012(M.U),60.96,2012
+138,Hydro,Kodayar-1,Net Generation of 2012(M.U),214.47,2012
+139,Hydro,Kodayar-2,Net Generation of 2012(M.U),81.26,2012
+140,Thermal,Ennore TPS,Net Generation of 2012(M.U),744.15,2012
+141,Thermal,North Chennai TPS,Net Generation of 2012(M.U),4300.95,2012
+142,Thermal,Tuticorin TPS,Net Generation of 2012(M.U),7261.89,2012
+143,Thermal,Mettur TPS,Net Generation of 2012(M.U),6279.63,2012
+144,Gas,Basin Bridge,Net Generation of 2013(M.U),2.17,2013
+145,Gas,Kovil Kalappal,Net Generation of 2013(M.U),678.37,2013
+146,Gas,Vazhuthur,Net Generation of 2013(M.U),421.68,2013
+147,Gas,Vazhuthur phase II,Net Generation of 2013(M.U),455.04,2013
+148,Gas,Kuttalam,Net Generation of 2013(M.U),49.47,2013
+149,Hydro,Pykara,Net Generation of 2013(M.U),39.27,2013
+150,Hydro,Pykara Micro Hydel,Net Generation of 2013(M.U),3.62,2013
+151,Hydro,PUSHEP,Net Generation of 2013(M.U),193.41,2013
+152,Hydro,Moyar,Net Generation of 2013(M.U),77.47,2013
+153,Hydro,Maravakandi Micro Hydel,Net Generation of 2013(M.U),0.69,2013
+154,Hydro,Parsons valley,Net Generation of 2013(M.U),30.01,2013
+155,Hydro,Kundah - 1,Net Generation of 2013(M.U),180.59,2013
+156,Hydro,Kundah - 2,Net Generation of 2013(M.U),453.17,2013
+157,Hydro,Kundah - 3,Net Generation of 2013(M.U),262.84,2013
+158,Hydro,Kundah - 4,Net Generation of 2013(M.U),70.83,2013
+159,Hydro,Kundah - 5,Net Generation of 2013(M.U),42.72,2013
+160,Hydro,Mettur Dam,Net Generation of 2013(M.U),83.05,2013
+161,Hydro,Mettur Tunnel,Net Generation of 2013(M.U),119.77,2013
+162,Hydro,LMHEP-Barrage-1,Net Generation of 2013(M.U),45.88,2013
+163,Hydro,LMHEP-Barrage-2,Net Generation of 2013(M.U),40.37,2013
+164,Hydro,LMHEP-Barrage-3,Net Generation of 2013(M.U),39.69,2013
+165,Hydro,LMHEP-Barrage-4,Net Generation of 2013(M.U),30.1,2013
+166,Hydro,Bhavani Kattalai PH-1,Net Generation of 2013(M.U),70.14,2013
+167,Hydro,Bhavanisagar RBC,Net Generation of 2013(M.U),0.06,2013
+168,Hydro,Bhavani Sagar Micro Hydel,Net Generation of 2013(M.U),16.07,2013
+169,Hydro,Poonachi Micro,Net Generation of 2013(M.U),1.66,2013
+170,Hydro,Sathanur Micro,Net Generation of 2013(M.U),5.04,2013
+171,Hydro,Mukurthy Micro,Net Generation of 2013(M.U),1.12,2013
+172,Hydro,Thirumoorthy Micro,Net Generation of 2013(M.U),1.94,2013
+173,Hydro,Lower Aliyar,Net Generation of 2013(M.U),3.98,2013
+174,Hydro,Amaravathy,Net Generation of 2013(M.U),2.22,2013
+175,Hydro,Perunchani,Net Generation of 2013(M.U),0.24,2013
+176,Hydro,Periyar,Net Generation of 2013(M.U),177.93,2013
+177,Hydro,Vaigai Micro Hydel,Net Generation of 2013(M.U),3.12,2013
+178,Hydro,Suruliyar,Net Generation of 2013(M.U),49.08,2013
+179,Hydro,Papanasam,Net Generation of 2013(M.U),62.64,2013
+180,Hydro,Servalar,Net Generation of 2013(M.U),9.55,2013
+181,Hydro,Sarkarpathy,Net Generation of 2013(M.U),83.59,2013
+182,Hydro,Aliyar,Net Generation of 2013(M.U),76.23,2013
+183,Hydro,Kadamparai,Net Generation of 2013(M.U),297.3,2013
+184,Hydro,Sholayar-1,Net Generation of 2013(M.U),145.08,2013
+185,Hydro,Sholayar-2,Net Generation of 2013(M.U),56.36,2013
+186,Hydro,Kodayar-1,Net Generation of 2013(M.U),74.73,2013
+187,Hydro,Kodayar-2,Net Generation of 2013(M.U),63.03,2013
+188,Thermal,Ennore TPS,Net Generation of 2013(M.U),610.23,2013
+189,Thermal,North Chennai TPS,Net Generation of 2013(M.U),4633.51,2013
+190,Thermal,Tuticorin TPS,Net Generation of 2013(M.U),7620.48,2013
+191,Thermal,Mettur TPS,Net Generation of 2013(M.U),5684.45,2013
+192,Gas,Basin Bridge,Net Generation of 2014(M.U),22.89,2014
+193,Gas,Kovil Kalappal,Net Generation of 2014(M.U),373.52,2014
+194,Gas,Vazhuthur,Net Generation of 2014(M.U),576.26,2014
+195,Gas,Vazhuthur phase II,Net Generation of 2014(M.U),333.63,2014
+196,Gas,Kuttalam,Net Generation of 2014(M.U),336.24,2014
+197,Hydro,Pykara,Net Generation of 2014(M.U),26.95,2014
+198,Hydro,Pykara Micro Hydel,Net Generation of 2014(M.U),5.79,2014
+199,Hydro,PUSHEP,Net Generation of 2014(M.U),347.68,2014
+200,Hydro,Moyar,Net Generation of 2014(M.U),118.53,2014
+201,Hydro,Maravakandi Micro Hydel,Net Generation of 2014(M.U),0.94,2014
+202,Hydro,Parsons valley,Net Generation of 2014(M.U),36.53,2014
+203,Hydro,Kundah - 1,Net Generation of 2014(M.U),218.18,2014
+204,Hydro,Kundah - 2,Net Generation of 2014(M.U),570.28,2014
+205,Hydro,Kundah - 3,Net Generation of 2014(M.U),335.15,2014
+206,Hydro,Kundah - 4,Net Generation of 2014(M.U),121.34,2014
+207,Hydro,Kundah - 5,Net Generation of 2014(M.U),58.65,2014
+208,Hydro,Mettur Dam,Net Generation of 2014(M.U),100.26,2014
+209,Hydro,Mettur Tunnel,Net Generation of 2014(M.U),292.07,2014
+210,Hydro,LMHEP-Barrage-1,Net Generation of 2014(M.U),64.62,2014
+211,Hydro,LMHEP-Barrage-2,Net Generation of 2014(M.U),60.21,2014
+212,Hydro,LMHEP-Barrage-3,Net Generation of 2014(M.U),64.96,2014
+213,Hydro,LMHEP-Barrage-4,Net Generation of 2014(M.U),53.41,2014
+214,Hydro,Bhavani Kattalai PH-1,Net Generation of 2014(M.U),82.48,2014
+215,Hydro,Bhavanisagar RBC,Net Generation of 2014(M.U),12.71,2014
+216,Hydro,Bhavani Sagar Micro Hydel,Net Generation of 2014(M.U),27.65,2014
+217,Hydro,Poonachi Micro,Net Generation of 2014(M.U),2.43,2014
+218,Hydro,Sathanur Micro,Net Generation of 2014(M.U),7.87,2014
+219,Hydro,Mukurthy Micro,Net Generation of 2014(M.U),1.08,2014
+220,Hydro,Thirumoorthy Micro,Net Generation of 2014(M.U),2.4,2014
+221,Hydro,Lower Aliyar,Net Generation of 2014(M.U),5.77,2014
+222,Hydro,Amaravathy,Net Generation of 2014(M.U),5.95,2014
+223,Hydro,Perunchani,Net Generation of 2014(M.U),1.32,2014
+224,Hydro,Periyar,Net Generation of 2014(M.U),435.14,2014
+225,Hydro,Vaigai Micro Hydel,Net Generation of 2014(M.U),12.67,2014
+226,Hydro,Suruliyar,Net Generation of 2014(M.U),85.09,2014
+227,Hydro,Papanasam,Net Generation of 2014(M.U),113.97,2014
+228,Hydro,Servalar,Net Generation of 2014(M.U),27.74,2014
+229,Hydro,Sarkarpathy,Net Generation of 2014(M.U),100.77,2014
+230,Hydro,Aliyar,Net Generation of 2014(M.U),108.4,2014
+231,Hydro,Kadamparai,Net Generation of 2014(M.U),398.16,2014
+232,Hydro,Sholayar-1,Net Generation of 2014(M.U),209.18,2014
+233,Hydro,Sholayar-2,Net Generation of 2014(M.U),55.06,2014
+234,Hydro,Kodayar-1,Net Generation of 2014(M.U),136.92,2014
+235,Hydro,Kodayar-2,Net Generation of 2014(M.U),63.03,2014
+236,Thermal,Ennore TPS,Net Generation of 2014(M.U),385.41,2014
+237,Thermal,North Chennai TPS,Net Generation of 2014(M.U),4040.57,2014
+238,Thermal,Tuticorin TPS,Net Generation of 2014(M.U),6166.85,2014
+239,Thermal,Mettur TPS,Net Generation of 2014(M.U),5509.12,2014
+240,Gas,Basin Bridge,Net Generation of 2015(M.U),22.89,2015
+241,Gas,Kovil Kalappal,Net Generation of 2015(M.U),373.52,2015
+242,Gas,Vazhuthur,Net Generation of 2015(M.U),576.26,2015
+243,Gas,Vazhuthur phase II,Net Generation of 2015(M.U),333.63,2015
+244,Gas,Kuttalam,Net Generation of 2015(M.U),336.24,2015
+245,Hydro,Pykara,Net Generation of 2015(M.U),26.95,2015
+246,Hydro,Pykara Micro Hydel,Net Generation of 2015(M.U),5.79,2015
+247,Hydro,PUSHEP,Net Generation of 2015(M.U),347.68,2015
+248,Hydro,Moyar,Net Generation of 2015(M.U),118.53,2015
+249,Hydro,Maravakandi Micro Hydel,Net Generation of 2015(M.U),0.94,2015
+250,Hydro,Parsons valley,Net Generation of 2015(M.U),36.53,2015
+251,Hydro,Kundah - 1,Net Generation of 2015(M.U),218.18,2015
+252,Hydro,Kundah - 2,Net Generation of 2015(M.U),570.28,2015
+253,Hydro,Kundah - 3,Net Generation of 2015(M.U),335.15,2015
+254,Hydro,Kundah - 4,Net Generation of 2015(M.U),121.34,2015
+255,Hydro,Kundah - 5,Net Generation of 2015(M.U),58.65,2015
+256,Hydro,Mettur Dam,Net Generation of 2015(M.U),100.26,2015
+257,Hydro,Mettur Tunnel,Net Generation of 2015(M.U),292.07,2015
+258,Hydro,LMHEP-Barrage-1,Net Generation of 2015(M.U),64.62,2015
+259,Hydro,LMHEP-Barrage-2,Net Generation of 2015(M.U),60.21,2015
+260,Hydro,LMHEP-Barrage-3,Net Generation of 2015(M.U),64.96,2015
+261,Hydro,LMHEP-Barrage-4,Net Generation of 2015(M.U),53.41,2015
+262,Hydro,Bhavani Kattalai PH-1,Net Generation of 2015(M.U),82.48,2015
+263,Hydro,Bhavanisagar RBC,Net Generation of 2015(M.U),12.71,2015
+264,Hydro,Bhavani Sagar Micro Hydel,Net Generation of 2015(M.U),27.65,2015
+265,Hydro,Poonachi Micro,Net Generation of 2015(M.U),2.43,2015
+266,Hydro,Sathanur Micro,Net Generation of 2015(M.U),7.87,2015
+267,Hydro,Mukurthy Micro,Net Generation of 2015(M.U),1.08,2015
+268,Hydro,Thirumoorthy Micro,Net Generation of 2015(M.U),2.4,2015
+269,Hydro,Lower Aliyar,Net Generation of 2015(M.U),5.77,2015
+270,Hydro,Amaravathy,Net Generation of 2015(M.U),5.95,2015
+271,Hydro,Perunchani,Net Generation of 2015(M.U),1.32,2015
+272,Hydro,Periyar,Net Generation of 2015(M.U),435.14,2015
+273,Hydro,Vaigai Micro Hydel,Net Generation of 2015(M.U),12.67,2015
+274,Hydro,Suruliyar,Net Generation of 2015(M.U),85.09,2015
+275,Hydro,Papanasam,Net Generation of 2015(M.U),113.97,2015
+276,Hydro,Servalar,Net Generation of 2015(M.U),27.74,2015
+277,Hydro,Sarkarpathy,Net Generation of 2015(M.U),100.77,2015
+278,Hydro,Aliyar,Net Generation of 2015(M.U),108.4,2015
+279,Hydro,Kadamparai,Net Generation of 2015(M.U),398.16,2015
+280,Hydro,Sholayar-1,Net Generation of 2015(M.U),209.18,2015
+281,Hydro,Sholayar-2,Net Generation of 2015(M.U),55.06,2015
+282,Hydro,Kodayar-1,Net Generation of 2015(M.U),136.92,2015
+283,Hydro,Kodayar-2,Net Generation of 2015(M.U),63.03,2015
+284,Thermal,Ennore TPS,Net Generation of 2015(M.U),385.41,2015
+285,Thermal,North Chennai TPS,Net Generation of 2015(M.U),4040.57,2015
+286,Thermal,Tuticorin TPS,Net Generation of 2015(M.U),6166.85,2015
+287,Thermal,Mettur TPS,Net Generation of 2015(M.U),5509.12,2015
+288,Gas,Basin Bridge,Net Generation of 2016(M.U),9.53,2016
+289,Gas,Kovil Kalappal,Net Generation of 2016(M.U),363.68,2016
+290,Gas,Vazhuthur,Net Generation of 2016(M.U),675.72,2016
+291,Gas,Vazhuthur phase II,Net Generation of 2016(M.U),0.0,2016
+292,Gas,Kuttalam,Net Generation of 2016(M.U),518.48,2016
+293,Hydro,Pykara,Net Generation of 2016(M.U),56.15,2016
+294,Hydro,Pykara Micro Hydel,Net Generation of 2016(M.U),5.44,2016
+295,Hydro,PUSHEP,Net Generation of 2016(M.U),279.24,2016
+296,Hydro,Moyar,Net Generation of 2016(M.U),115.64,2016
+297,Hydro,Maravakandi Micro Hydel,Net Generation of 2016(M.U),0.97,2016
+298,Hydro,Parsons valley,Net Generation of 2016(M.U),25.5,2016
+299,Hydro,Kundah - 1,Net Generation of 2016(M.U),229.64,2016
+300,Hydro,Kundah - 2,Net Generation of 2016(M.U),619.67,2016
+301,Hydro,Kundah - 3,Net Generation of 2016(M.U),364.17,2016
+302,Hydro,Kundah - 4,Net Generation of 2016(M.U),117.32,2016
+303,Hydro,Kundah - 5,Net Generation of 2016(M.U),37.61,2016
+304,Hydro,Mettur Dam,Net Generation of 2016(M.U),92.14,2016
+305,Hydro,Mettur Tunnel,Net Generation of 2016(M.U),245.86,2016
+306,Hydro,LMHEP-Barrage-1,Net Generation of 2016(M.U),40.44,2016
+307,Hydro,LMHEP-Barrage-2,Net Generation of 2016(M.U),62.22,2016
+308,Hydro,LMHEP-Barrage-3,Net Generation of 2016(M.U),63.39,2016
+309,Hydro,LMHEP-Barrage-4,Net Generation of 2016(M.U),53.86,2016
+310,Hydro,Bhavani Kattalai PH-1,Net Generation of 2016(M.U),164.44,2016
+311,Hydro,Bhavanisagar RBC,Net Generation of 2016(M.U),7.16,2016
+312,Hydro,Bhavani Sagar Micro Hydel,Net Generation of 2016(M.U),30.01,2016
+313,Hydro,Poonachi Micro,Net Generation of 2016(M.U),3.2,2016
+314,Hydro,Sathanur Micro,Net Generation of 2016(M.U),10.7,2016
+315,Hydro,Mukurthy Micro,Net Generation of 2016(M.U),0.29,2016
+316,Hydro,Thirumoorthy Micro,Net Generation of 2016(M.U),1.16,2016
+317,Hydro,Lower Aliyar,Net Generation of 2016(M.U),8.01,2016
+318,Hydro,Amaravathy,Net Generation of 2016(M.U),4.84,2016
+319,Hydro,Perunchani,Net Generation of 2016(M.U),1.25,2016
+320,Hydro,Periyar,Net Generation of 2016(M.U),503.08,2016
+321,Hydro,Vaigai Micro Hydel,Net Generation of 2016(M.U),17.93,2016
+322,Hydro,Suruliyar,Net Generation of 2016(M.U),92.04,2016
+323,Hydro,Papanasam,Net Generation of 2016(M.U),115.74,2016
+324,Hydro,Servalar,Net Generation of 2016(M.U),38.92,2016
+325,Hydro,Sarkarpathy,Net Generation of 2016(M.U),79.11,2016
+326,Hydro,Aliyar,Net Generation of 2016(M.U),152.41,2016
+327,Hydro,Kadamparai,Net Generation of 2016(M.U),411.06,2016
+328,Hydro,Sholayar-1,Net Generation of 2016(M.U),206.63,2016
+329,Hydro,Sholayar-2,Net Generation of 2016(M.U),56.56,2016
+330,Hydro,Kodayar-1,Net Generation of 2016(M.U),192.27,2016
+331,Hydro,Kodayar-2,Net Generation of 2016(M.U),85.55,2016
+332,Thermal,Ennore TPS,Net Generation of 2016(M.U),347.36,2016
+333,Thermal,North Chennai TPS,Net Generation of 2016(M.U),4046.39,2016
+334,Thermal,Tuticorin TPS,Net Generation of 2016(M.U),6501.37,2016
+335,Thermal,Mettur TPS,Net Generation of 2016(M.U),5471.33,2016
+336,Gas,Basin Bridge,Net Generation of 2017(M.U),10.47,2017
+337,Gas,Kovil Kalappal,Net Generation of 2017(M.U),308.97,2017
+338,Gas,Vazhuthur,Net Generation of 2017(M.U),647.25,2017
+339,Gas,Vazhuthur phase II,Net Generation of 2017(M.U),259.74,2017
+340,Gas,Kuttalam,Net Generation of 2017(M.U),336.24,2017
+341,Hydro,Pykara,Net Generation of 2017(M.U),12.5,2017
+342,Hydro,Pykara Micro Hydel,Net Generation of 2017(M.U),3.3,2017
+343,Hydro,PUSHEP,Net Generation of 2017(M.U),191.75,2017
+344,Hydro,Moyar,Net Generation of 2017(M.U),48.97,2017
+345,Hydro,Maravakandi Micro Hydel,Net Generation of 2017(M.U),0.32,2017
+346,Hydro,Parsons valley,Net Generation of 2017(M.U),23.99,2017
+347,Hydro,Kundah - 1,Net Generation of 2017(M.U),156.81,2017
+348,Hydro,Kundah - 2,Net Generation of 2017(M.U),406.08,2017
+349,Hydro,Kundah - 3,Net Generation of 2017(M.U),213.42,2017
+350,Hydro,Kundah - 4,Net Generation of 2017(M.U),47.17,2017
+351,Hydro,Kundah - 5,Net Generation of 2017(M.U),43.22,2017
+352,Hydro,Mettur Dam,Net Generation of 2017(M.U),44.16,2017
+353,Hydro,Mettur Tunnel,Net Generation of 2017(M.U),80.35,2017
+354,Hydro,LMHEP-Barrage-1,Net Generation of 2017(M.U),21.87,2017
+355,Hydro,LMHEP-Barrage-2,Net Generation of 2017(M.U),23.59,2017
+356,Hydro,LMHEP-Barrage-3,Net Generation of 2017(M.U),25.12,2017
+357,Hydro,LMHEP-Barrage-4,Net Generation of 2017(M.U),19.49,2017
+358,Hydro,Bhavani Kattalai PH-1,Net Generation of 2017(M.U),58.47,2017
+359,Hydro,Bhavanisagar RBC,Net Generation of 2017(M.U),0.0,2017
+360,Hydro,Bhavani Sagar Micro Hydel,Net Generation of 2017(M.U),18.19,2017
+361,Hydro,Poonachi Micro,Net Generation of 2017(M.U),1.72,2017
+362,Hydro,Sathanur Micro,Net Generation of 2017(M.U),0.41,2017
+363,Hydro,Mukurthy Micro,Net Generation of 2017(M.U),0.26,2017
+364,Hydro,Thirumoorthy Micro,Net Generation of 2017(M.U),1.36,2017
+365,Hydro,Lower Aliyar,Net Generation of 2017(M.U),0.01,2017
+366,Hydro,Amaravathy,Net Generation of 2017(M.U),0.77,2017
+367,Hydro,Perunchani,Net Generation of 2017(M.U),0.01,2017
+368,Hydro,Periyar,Net Generation of 2017(M.U),93.09,2017
+369,Hydro,Vaigai Micro Hydel,Net Generation of 2017(M.U),1.65,2017
+370,Hydro,Suruliyar,Net Generation of 2017(M.U),41.92,2017
+371,Hydro,Papanasam,Net Generation of 2017(M.U),65.71,2017
+372,Hydro,Servalar,Net Generation of 2017(M.U),11.86,2017
+373,Hydro,Sarkarpathy,Net Generation of 2017(M.U),63.19,2017
+374,Hydro,Aliyar,Net Generation of 2017(M.U),61.22,2017
+375,Hydro,Kadamparai,Net Generation of 2017(M.U),286.74,2017
+376,Hydro,Sholayar-1,Net Generation of 2017(M.U),183.81,2017
+377,Hydro,Sholayar-2,Net Generation of 2017(M.U),42.58,2017
+378,Hydro,Kodayar-1,Net Generation of 2017(M.U),126.8,2017
+379,Hydro,Kodayar-2,Net Generation of 2017(M.U),42.01,2017
+380,Thermal,Ennore TPS,Net Generation of 2017(M.U),144.16,2017
+381,Thermal,North Chennai TPS,Net Generation of 2017(M.U),3365.75,2017
+382,Thermal,Tuticorin TPS,Net Generation of 2017(M.U),5089.66,2017
+383,Thermal,Mettur TPS,Net Generation of 2017(M.U),5239.7,2017
+384,Gas,Basin Bridge,Net Generation of 2018(M.U),5.22,2018
+385,Gas,Kovil Kalappal,Net Generation of 2018(M.U),265.65,2018
+386,Gas,Vazhuthur,Net Generation of 2018(M.U),636.07,2018
+387,Gas,Vazhuthur phase II,Net Generation of 2018(M.U),564.32,2018
+388,Gas,Kuttalam,Net Generation of 2018(M.U),305.22,2018
+389,Hydro,Pykara,Net Generation of 2018(M.U),0.8,2018
+390,Hydro,Pykara Micro Hydel,Net Generation of 2018(M.U),4.73,2018
+391,Hydro,PUSHEP,Net Generation of 2018(M.U),272.01,2018
+392,Hydro,Moyar,Net Generation of 2018(M.U),93.87,2018
+393,Hydro,Maravakandi Micro Hydel,Net Generation of 2018(M.U),0.76,2018
+394,Hydro,Parsons valley,Net Generation of 2018(M.U),26.95,2018
+395,Hydro,Kundah - 1,Net Generation of 2018(M.U),124.82,2018
+396,Hydro,Kundah - 2,Net Generation of 2018(M.U),373.8,2018
+397,Hydro,Kundah - 3,Net Generation of 2018(M.U),182.25,2018
+398,Hydro,Kundah - 4,Net Generation of 2018(M.U),76.17,2018
+399,Hydro,Kundah - 5,Net Generation of 2018(M.U),45.83,2018
+400,Hydro,Mettur Dam,Net Generation of 2018(M.U),50.39,2018
+401,Hydro,Mettur Tunnel,Net Generation of 2018(M.U),162.82,2018
+402,Hydro,LMHEP-Barrage-1,Net Generation of 2018(M.U),64.62,2018
+403,Hydro,LMHEP-Barrage-2,Net Generation of 2018(M.U),60.21,2018
+404,Hydro,LMHEP-Barrage-3,Net Generation of 2018(M.U),64.96,2018
+405,Hydro,LMHEP-Barrage-4,Net Generation of 2018(M.U),53.41,2018
+406,Hydro,Bhavani Kattalai PH-1,Net Generation of 2018(M.U),74.59,2018
+407,Hydro,Bhavanisagar RBC,Net Generation of 2018(M.U),4.54,2018
+408,Hydro,Bhavani Sagar Micro Hydel,Net Generation of 2018(M.U),14.86,2018
+409,Hydro,Poonachi Micro,Net Generation of 2018(M.U),0.42,2018
+410,Hydro,Sathanur Micro,Net Generation of 2018(M.U),13.15,2018
+411,Hydro,Mukurthy Micro,Net Generation of 2018(M.U),0.76,2018
+412,Hydro,Thirumoorthy Micro,Net Generation of 2018(M.U),1.78,2018
+413,Hydro,Lower Aliyar,Net Generation of 2018(M.U),3.28,2018
+414,Hydro,Amaravathy,Net Generation of 2018(M.U),4.8,2018
+415,Hydro,Perunchani,Net Generation of 2018(M.U),0.12,2018
+416,Hydro,Periyar,Net Generation of 2018(M.U),286.23,2018
+417,Hydro,Vaigai Micro Hydel,Net Generation of 2018(M.U),6.58,2018
+418,Hydro,Suruliyar,Net Generation of 2018(M.U),70.34,2018
+419,Hydro,Papanasam,Net Generation of 2018(M.U),114.11,2018
+420,Hydro,Servalar,Net Generation of 2018(M.U),26.41,2018
+421,Hydro,Sarkarpathy,Net Generation of 2018(M.U),85.37,2018
+422,Hydro,Aliyar,Net Generation of 2018(M.U),89.75,2018
+423,Hydro,Kadamparai,Net Generation of 2018(M.U),381.3,2018
+424,Hydro,Sholayar-1,Net Generation of 2018(M.U),101.24,2018
+425,Hydro,Sholayar-2,Net Generation of 2018(M.U),60.43,2018
+426,Hydro,Kodayar-1,Net Generation of 2018(M.U),82.11,2018
+427,Hydro,Kodayar-2,Net Generation of 2018(M.U),50.2,2018
+428,Thermal,Ennore TPS,Net Generation of 2018(M.U),0.0,2018
+429,Thermal,North Chennai TPS,Net Generation of 2018(M.U),3824.14,2018
+430,Thermal,Tuticorin TPS,Net Generation of 2018(M.U),4812.82,2018
+431,Thermal,Mettur TPS,Net Generation of 2018(M.U),4666.67,2018
+432,Gas,Basin Bridge,Net Generation of 2019(M.U),0.06,2019
+433,Gas,Kovil Kalappal,Net Generation of 2019(M.U),225.46,2019
+434,Gas,Vazhuthur,Net Generation of 2019(M.U),576.71,2019
+435,Gas,Vazhuthur phase II,Net Generation of 2019(M.U),549.24,2019
+436,Gas,Kuttalam,Net Generation of 2019(M.U),367.55,2019
+437,Hydro,Pykara,Net Generation of 2019(M.U),21.79,2019
+438,Hydro,Pykara Micro Hydel,Net Generation of 2019(M.U),8.35,2019
+439,Hydro,PUSHEP,Net Generation of 2019(M.U),504.86,2019
+440,Hydro,Moyar,Net Generation of 2019(M.U),161.49,2019
+441,Hydro,Maravakandi Micro Hydel,Net Generation of 2019(M.U),0.85,2019
+442,Hydro,Parsons valley,Net Generation of 2019(M.U),45.78,2019
+443,Hydro,Kundah - 1,Net Generation of 2019(M.U),270.05,2019
+444,Hydro,Kundah - 2,Net Generation of 2019(M.U),677.91,2019
+445,Hydro,Kundah - 3,Net Generation of 2019(M.U),395.67,2019
+446,Hydro,Kundah - 4,Net Generation of 2019(M.U),148.21,2019
+447,Hydro,Kundah - 5,Net Generation of 2019(M.U),89.58,2019
+448,Hydro,Mettur Dam,Net Generation of 2019(M.U),147.69,2019
+449,Hydro,Mettur Tunnel,Net Generation of 2019(M.U),439.93,2019
+450,Hydro,LMHEP-Barrage-1,Net Generation of 2019(M.U),68.68,2019
+451,Hydro,LMHEP-Barrage-2,Net Generation of 2019(M.U),30.4,2019
+452,Hydro,LMHEP-Barrage-3,Net Generation of 2019(M.U),64.42,2019
+453,Hydro,LMHEP-Barrage-4,Net Generation of 2019(M.U),52.82,2019
+454,Hydro,Bhavani Kattalai PH-1,Net Generation of 2019(M.U),69.05,2019
+455,Hydro,Bhavanisagar RBC,Net Generation of 2019(M.U),18.71,2019
+456,Hydro,Bhavani Sagar Micro Hydel,Net Generation of 2019(M.U),30.98,2019
+457,Hydro,Poonachi Micro,Net Generation of 2019(M.U),3.12,2019
+458,Hydro,Sathanur Micro,Net Generation of 2019(M.U),6.26,2019
+459,Hydro,Mukurthy Micro,Net Generation of 2019(M.U),1.08,2019
+460,Hydro,Thirumoorthy Micro,Net Generation of 2019(M.U),2.82,2019
+461,Hydro,Lower Aliyar,Net Generation of 2019(M.U),5.92,2019
+462,Hydro,Amaravathy,Net Generation of 2019(M.U),9.43,2019
+463,Hydro,Perunchani,Net Generation of 2019(M.U),2.96,2019
+464,Hydro,Periyar,Net Generation of 2019(M.U),701.21,2019
+465,Hydro,Vaigai Micro Hydel,Net Generation of 2019(M.U),23.06,2019
+466,Hydro,Suruliyar,Net Generation of 2019(M.U),92.27,2019
+467,Hydro,Papanasam,Net Generation of 2019(M.U),120.6,2019
+468,Hydro,Servalar,Net Generation of 2019(M.U),43.16,2019
+469,Hydro,Sarkarpathy,Net Generation of 2019(M.U),129.57,2019
+470,Hydro,Aliyar,Net Generation of 2019(M.U),48.29,2019
+471,Hydro,Kadamparai,Net Generation of 2019(M.U),431.43,2019
+472,Hydro,Sholayar-1,Net Generation of 2019(M.U),177.47,2019
+473,Hydro,Sholayar-2,Net Generation of 2019(M.U),43.13,2019
+474,Hydro,Kodayar-1,Net Generation of 2019(M.U),143.71,2019
+475,Hydro,Kodayar-2,Net Generation of 2019(M.U),50.24,2019
+476,Thermal,Ennore TPS,Net Generation of 2019(M.U),0.0,2019
+477,Thermal,North Chennai TPS,Net Generation of 2019(M.U),3632.76,2019
+478,Thermal,Tuticorin TPS,Net Generation of 2019(M.U),5807.85,2019
+479,Thermal,Mettur TPS,Net Generation of 2019(M.U),5314.34,2019
+480,Gas,Basin Bridge,Net Generation of 2020(M.U),22.89,2020
+481,Gas,Kovil Kalappal,Net Generation of 2020(M.U),333.83,2020
+482,Gas,Vazhuthur,Net Generation of 2020(M.U),576.26,2020
+483,Gas,Vazhuthur phase II,Net Generation of 2020(M.U),333.63,2020
+484,Gas,Kuttalam,Net Generation of 2020(M.U),477.75,2020
+485,Hydro,Pykara,Net Generation of 2020(M.U),0.6,2020
+486,Hydro,Pykara Micro Hydel,Net Generation of 2020(M.U),5.79,2020
+487,Hydro,PUSHEP,Net Generation of 2020(M.U),347.68,2020
+488,Hydro,Moyar,Net Generation of 2020(M.U),117.13,2020
+489,Hydro,Maravakandi Micro Hydel,Net Generation of 2020(M.U),0.94,2020
+490,Hydro,Parsons valley,Net Generation of 2020(M.U),36.53,2020
+491,Hydro,Kundah - 1,Net Generation of 2020(M.U),302.63,2020
+492,Hydro,Kundah - 2,Net Generation of 2020(M.U),763.3,2020
+493,Hydro,Kundah - 3,Net Generation of 2020(M.U),447.75,2020
+494,Hydro,Kundah - 4,Net Generation of 2020(M.U),136.03,2020
+495,Hydro,Kundah - 5,Net Generation of 2020(M.U),89.86,2020
+496,Hydro,Mettur Dam,Net Generation of 2020(M.U),131.96,2020
+497,Hydro,Mettur Tunnel,Net Generation of 2020(M.U),376.86,2020
+498,Hydro,LMHEP-Barrage-1,Net Generation of 2020(M.U),80.84,2020
+499,Hydro,LMHEP-Barrage-2,Net Generation of 2020(M.U),81.31,2020
+500,Hydro,LMHEP-Barrage-3,Net Generation of 2020(M.U),81.41,2020
+501,Hydro,LMHEP-Barrage-4,Net Generation of 2020(M.U),68.57,2020
+502,Hydro,Bhavani Kattalai PH-1,Net Generation of 2020(M.U),107.7,2020
+503,Hydro,Bhavanisagar RBC,Net Generation of 2020(M.U),12.71,2020
+504,Hydro,Bhavani Sagar Micro Hydel,Net Generation of 2020(M.U),27.65,2020
+505,Hydro,Poonachi Micro,Net Generation of 2020(M.U),2.43,2020
+506,Hydro,Sathanur Micro,Net Generation of 2020(M.U),7.87,2020
+507,Hydro,Mukurthy Micro,Net Generation of 2020(M.U),1.08,2020
+508,Hydro,Thirumoorthy Micro,Net Generation of 2020(M.U),2.4,2020
+509,Hydro,Lower Aliyar,Net Generation of 2020(M.U),5.77,2020
+510,Hydro,Amaravathy,Net Generation of 2020(M.U),5.95,2020
+511,Hydro,Perunchani,Net Generation of 2020(M.U),1.32,2020
+512,Hydro,Periyar,Net Generation of 2020(M.U),507.64,2020
+513,Hydro,Vaigai Micro Hydel,Net Generation of 2020(M.U),12.67,2020
+514,Hydro,Suruliyar,Net Generation of 2020(M.U),92.63,2020
+515,Hydro,Papanasam,Net Generation of 2020(M.U),129.97,2020
+516,Hydro,Servalar,Net Generation of 2020(M.U),27.74,2020
+517,Hydro,Sarkarpathy,Net Generation of 2020(M.U),100.77,2020
+518,Hydro,Aliyar,Net Generation of 2020(M.U),136.91,2020
+519,Hydro,Kadamparai,Net Generation of 2020(M.U),427.95,2020
+520,Hydro,Sholayar-1,Net Generation of 2020(M.U),209.18,2020
+521,Hydro,Sholayar-2,Net Generation of 2020(M.U),55.06,2020
+522,Hydro,Kodayar-1,Net Generation of 2020(M.U),164.08,2020
+523,Hydro,Kodayar-2,Net Generation of 2020(M.U),75.04,2020
+524,Thermal,Ennore TPS,Net Generation of 2020(M.U),0.0,2020
+525,Thermal,North Chennai TPS,Net Generation of 2020(M.U),4040.57,2020
+526,Thermal,Tuticorin TPS,Net Generation of 2020(M.U),4060.58,2020
+527,Thermal,Mettur TPS,Net Generation of 2020(M.U),5509.12,2020
+528,Gas,Basin Bridge,Net Generation of 2021(M.U),22.89,2021
+529,Gas,Kovil Kalappal,Net Generation of 2021(M.U),156.44,2021
+530,Gas,Vazhuthur,Net Generation of 2021(M.U),576.26,2021
+531,Gas,Vazhuthur phase II,Net Generation of 2021(M.U),333.63,2021
+532,Gas,Kuttalam,Net Generation of 2021(M.U),425.58,2021
+533,Hydro,Pykara,Net Generation of 2021(M.U),32.9,2021
+534,Hydro,Pykara Micro Hydel,Net Generation of 2021(M.U),5.79,2021
+535,Hydro,PUSHEP,Net Generation of 2021(M.U),347.68,2021
+536,Hydro,Moyar,Net Generation of 2021(M.U),156.9,2021
+537,Hydro,Maravakandi Micro Hydel,Net Generation of 2021(M.U),0.94,2021
+538,Hydro,Parsons valley,Net Generation of 2021(M.U),36.53,2021
+539,Hydro,Kundah - 1,Net Generation of 2021(M.U),329.3,2021
+540,Hydro,Kundah - 2,Net Generation of 2021(M.U),872.98,2021
+541,Hydro,Kundah - 3,Net Generation of 2021(M.U),565.26,2021
+542,Hydro,Kundah - 4,Net Generation of 2021(M.U),273.27,2021
+543,Hydro,Kundah - 5,Net Generation of 2021(M.U),77.88,2021
+544,Hydro,Mettur Dam,Net Generation of 2021(M.U),186.68,2021
+545,Hydro,Mettur Tunnel,Net Generation of 2021(M.U),625.35,2021
+546,Hydro,LMHEP-Barrage-1,Net Generation of 2021(M.U),117.37,2021
+547,Hydro,LMHEP-Barrage-2,Net Generation of 2021(M.U),108.25,2021
+548,Hydro,LMHEP-Barrage-3,Net Generation of 2021(M.U),116.02,2021
+549,Hydro,LMHEP-Barrage-4,Net Generation of 2021(M.U),98.4,2021
+550,Hydro,Bhavani Kattalai PH-1,Net Generation of 2021(M.U),125.32,2021
+551,Hydro,Bhavanisagar RBC,Net Generation of 2021(M.U),12.71,2021
+552,Hydro,Bhavani Sagar Micro Hydel,Net Generation of 2021(M.U),27.65,2021
+553,Hydro,Poonachi Micro,Net Generation of 2021(M.U),2.43,2021
+554,Hydro,Sathanur Micro,Net Generation of 2021(M.U),7.87,2021
+555,Hydro,Mukurthy Micro,Net Generation of 2021(M.U),1.08,2021
+556,Hydro,Thirumoorthy Micro,Net Generation of 2021(M.U),2.4,2021
+557,Hydro,Lower Aliyar,Net Generation of 2021(M.U),5.77,2021
+558,Hydro,Amaravathy,Net Generation of 2021(M.U),5.95,2021
+559,Hydro,Perunchani,Net Generation of 2021(M.U),1.32,2021
+560,Hydro,Periyar,Net Generation of 2021(M.U),1039.16,2021
+561,Hydro,Vaigai Micro Hydel,Net Generation of 2021(M.U),12.67,2021
+562,Hydro,Suruliyar,Net Generation of 2021(M.U),101.07,2021
+563,Hydro,Papanasam,Net Generation of 2021(M.U),216.85,2021
+564,Hydro,Servalar,Net Generation of 2021(M.U),27.74,2021
+565,Hydro,Sarkarpathy,Net Generation of 2021(M.U),100.77,2021
+566,Hydro,Aliyar,Net Generation of 2021(M.U),94.62,2021
+567,Hydro,Kadamparai,Net Generation of 2021(M.U),444.61,2021
+568,Hydro,Sholayar-1,Net Generation of 2021(M.U),209.18,2021
+569,Hydro,Sholayar-2,Net Generation of 2021(M.U),55.06,2021
+570,Hydro,Kodayar-1,Net Generation of 2021(M.U),140.66,2021
+571,Hydro,Kodayar-2,Net Generation of 2021(M.U),91.33,2021
+572,Thermal,Ennore TPS,Net Generation of 2021(M.U),0.0,2021
+573,Thermal,North Chennai TPS,Net Generation of 2021(M.U),4040.57,2021
+574,Thermal,Tuticorin TPS,Net Generation of 2021(M.U),6374.71,2021
+575,Thermal,Mettur TPS,Net Generation of 2021(M.U),5509.12,2021
+576,Gas,Basin Bridge,Net Generation of 2022(M.U),22.89,2022
+577,Gas,Kovil Kalappal,Net Generation of 2022(M.U),20.78,2022
+578,Gas,Vazhuthur,Net Generation of 2022(M.U),576.26,2022
+579,Gas,Vazhuthur phase II,Net Generation of 2022(M.U),333.63,2022
+580,Gas,Kuttalam,Net Generation of 2022(M.U),74.39,2022
+581,Hydro,Pykara,Net Generation of 2022(M.U),0.7,2022
+582,Hydro,Pykara Micro Hydel,Net Generation of 2022(M.U),5.79,2022
+583,Hydro,PUSHEP,Net Generation of 2022(M.U),347.68,2022
+584,Hydro,Moyar,Net Generation of 2022(M.U),35.35,2022
+585,Hydro,Maravakandi Micro Hydel,Net Generation of 2022(M.U),0.94,2022
+586,Hydro,Parsons valley,Net Generation of 2022(M.U),36.53,2022
+587,Hydro,Kundah - 1,Net Generation of 2022(M.U),92.49,2022
+588,Hydro,Kundah - 2,Net Generation of 2022(M.U),225.45,2022
+589,Hydro,Kundah - 3,Net Generation of 2022(M.U),136.18,2022
+590,Hydro,Kundah - 4,Net Generation of 2022(M.U),21.24,2022
+591,Hydro,Kundah - 5,Net Generation of 2022(M.U),21.85,2022
+592,Hydro,Mettur Dam,Net Generation of 2022(M.U),36.74,2022
+593,Hydro,Mettur Tunnel,Net Generation of 2022(M.U),37.14,2022
+594,Hydro,LMHEP-Barrage-1,Net Generation of 2022(M.U),12.54,2022
+595,Hydro,LMHEP-Barrage-2,Net Generation of 2022(M.U),12.57,2022
+596,Hydro,LMHEP-Barrage-3,Net Generation of 2022(M.U),11.1,2022
+597,Hydro,LMHEP-Barrage-4,Net Generation of 2022(M.U),8.31,2022
+598,Hydro,Bhavani Kattalai PH-1,Net Generation of 2022(M.U),9.4,2022
+599,Hydro,Bhavanisagar RBC,Net Generation of 2022(M.U),12.71,2022
+600,Hydro,Bhavani Sagar Micro Hydel,Net Generation of 2022(M.U),27.65,2022
+601,Hydro,Poonachi Micro,Net Generation of 2022(M.U),2.43,2022
+602,Hydro,Sathanur Micro,Net Generation of 2022(M.U),7.87,2022
+603,Hydro,Mukurthy Micro,Net Generation of 2022(M.U),1.08,2022
+604,Hydro,Thirumoorthy Micro,Net Generation of 2022(M.U),2.4,2022
+605,Hydro,Lower Aliyar,Net Generation of 2022(M.U),5.77,2022
+606,Hydro,Amaravathy,Net Generation of 2022(M.U),5.95,2022
+607,Hydro,Perunchani,Net Generation of 2022(M.U),1.32,2022
+608,Hydro,Periyar,Net Generation of 2022(M.U),121.48,2022
+609,Hydro,Vaigai Micro Hydel,Net Generation of 2022(M.U),12.67,2022
+610,Hydro,Suruliyar,Net Generation of 2022(M.U),85.09,2022
+611,Hydro,Papanasam,Net Generation of 2022(M.U),40.48,2022
+612,Hydro,Servalar,Net Generation of 2022(M.U),27.74,2022
+613,Hydro,Sarkarpathy,Net Generation of 2022(M.U),100.77,2022
+614,Hydro,Aliyar,Net Generation of 2022(M.U),30.5,2022
+615,Hydro,Kadamparai,Net Generation of 2022(M.U),127.22,2022
+616,Hydro,Sholayar-1,Net Generation of 2022(M.U),209.18,2022
+617,Hydro,Sholayar-2,Net Generation of 2022(M.U),55.06,2022
+618,Hydro,Kodayar-1,Net Generation of 2022(M.U),90.46,2022
+619,Hydro,Kodayar-2,Net Generation of 2022(M.U),7.33,2022
+620,Thermal,Ennore TPS,Net Generation of 2022(M.U),0.0,2022
+621,Thermal,North Chennai TPS,Net Generation of 2022(M.U),4040.57,2022
+622,Thermal,Tuticorin TPS,Net Generation of 2022(M.U),7239.96,2022
+623,Thermal,Mettur TPS,Net Generation of 2022(M.U),5509.12,2022
