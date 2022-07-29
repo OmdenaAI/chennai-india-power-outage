@@ -96,39 +96,18 @@ end_val = (dates == pd.Timestamp(end_index)).argmax()
 print('start_val: {}'.format(start_val))
 print('end_val: {}'.format(end_val))
 
-# start_val=100
-# end_val=110
 
 if st.button('AR Predict '):
     pred = loaded_ar_model.predict(start_val, end_val)
     pred_df  = pd.DataFrame([pred])
     st.table(pred_df)
     pred_df = pred_df.T
-#     print(pred_df.index)
-#     print(actual_df.index)
-#     act_df = (pred_df).join(actual_df)
     act_df = pd.concat([actual_df,pred_df], axis=1)
     act_df.columns=['actual_demand','predicted_demand']
     act_df["actual_demand"].fillna(0.0, inplace = True)
     act_df["predicted_demand"].fillna(0.0, inplace = True)
-
-
-    print(act_df)
-    print(act_df.shape)
-    
-    print(act_df.info())
     st.bar_chart(act_df)
     st.line_chart(act_df)
-
-# start_val = int(st.text_input(label='Start', value="10"))
-# end_val = int(st.text_input(label='End', value="12"))
-# print(start_val, end_val)
-
-# if st.button('AR Predict '):
-#     pred = loaded_ar_model.predict(start_val, end_val)
-#     pred_df  = pd.DataFrame([pred])
-#     st.table(pred_df) 
-#     st.write(' Based on AR Model, the peak demand load is '+ str(int(pred)))
 
 
 #streamlit run streamlit_app.py
