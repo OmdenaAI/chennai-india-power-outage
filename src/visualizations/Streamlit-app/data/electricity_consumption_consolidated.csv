@@ -1,0 +1,65 @@
+Category Id,Category,Consumption (M.U),Year,Consumers
+1,Industries (including Traction),22790,2010,624472
+2,Agriculture,11940,2010,1913697
+3,Domestic,13709,2010,15565047
+4,Commercial,5686,2010,2636821
+5,Public Lighting and Water works,1043,2010,523250
+6,"Sales of Licensees,Sales to other States",420,2010,637
+7,Miscellaneous,1712,2010,97962
+1,Industries (including Traction),25622,2011,644584
+2,Agriculture,12625,2011,1972563
+3,Domestic,16312,2011,16318288
+4,Commercial,4586,2011,2820301
+5,Public Lighting and Water works,1592,2011,491363
+6,"Sales of Licensees,Sales to other States",429,2011,7672
+7,Miscellaneous,731,2011,89051
+1,Industries (including Traction),22663,2012,668658
+2,Agriculture,10425,2012,2018518
+3,Domestic,16249,2012,16897339
+4,Commercial,6498,2012,2980814
+5,Public Lighting and Water works,1597,2012,507983
+6,"Sales of Licensees,Sales to other States",423,2012,7914
+7,Miscellaneous,1897,2012,98350
+1,Industries (including Traction),19238,2013,692766
+2,Agriculture,10091,2013,2033455
+3,Domestic,"18,231",2013,17697908
+4,Commercial,"6,851",2013,3250570
+5,Public Lighting and Water works,1711,2013,563425
+6,"Sales of Licensees,Sales to other States",188,2013,8244
+7,Miscellaneous,2500,2013,104826
+1,Industries (including Traction),15606,2014,703514
+2,Agriculture,12301,2014,2047174
+3,Domestic,20201,2014,18402768
+4,Commercial,7123,2014,3287073
+5,Public Lighting and Water works,1917,2014,631867
+7,Miscellaneous ,3717,2014,159140
+1,Industries (including Traction),28790,2015,675000
+2,Agriculture,12406,2015,2046000
+3,Domestic,21990,2015,19988000
+4,Commercial,8394,2015,2793000
+5,Public Lighting and Water works,2110,2015,799000
+7,Miscellaneous ,3138,2015,166000
+1,Industries (including Traction),29939,2016,740000
+2,Agriculture,11542,2016,2060000
+3,Domestic,23489,2016,20131000
+4,Commercial,8860,2016,3108000
+5,Public Lighting and Water works,2232,2016,831000
+7,Miscellaneous,3402,2016,156000
+1,Industries (including Traction),31872,2017,759000
+2,Agriculture,11733,2017,2073000
+3,Domestic,24530,2017,20696000
+4,Commercial,9300,2017,3358000
+7,Miscellaneous,5585,2017,1040000
+1,Industries (including Traction),33504,2018,795918
+2,Agriculture,11250,2018,2103352
+3,Domestic,25815,2018,21303347
+4,Commercial,9916,2018,3469665
+5,Public Lighting and Water Works,2248,2018,855173
+7,Miscellaneous,3157,2018,281220
+1,Industries (including Traction),36028,2019,825000
+2,Agriculture,13064,2019,2117000
+3,Domestic,26996,2019,21875000
+4,Commercial,10282,2019,3544000
+5,Public Lighting and Water Works,2282,2019,737000
+6,"Sales of Licensees,Sales to other States",151,2019,10000
+7,Miscellaneous,3115,2019,490000
