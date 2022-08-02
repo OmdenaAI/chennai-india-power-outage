@@ -37,12 +37,12 @@ st.markdown('* Percentage of shortages in MW - trend (Obs: The shortages rate pe
 @st.cache(allow_output_mutation=True)
 @st.cache(persist=True)
 
-def load_data():
+def read_data():
 	energy_ds = pd.read_csv('data/POSOCO_DEMAND_SUPPLY_TamilNadu.csv')
 	return energy_ds 
 
 
-energy_ds = load_data()
+energy_ds = read_data()
 
 st.write(energy_ds.head())
 st.write(energy_ds.info())

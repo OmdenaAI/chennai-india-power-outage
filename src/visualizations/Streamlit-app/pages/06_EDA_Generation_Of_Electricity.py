@@ -20,12 +20,12 @@ st.text("Electricity generation dataset")
 # EDA
 # To Improve speed and cache data
 @st.cache(persist=True)
-def load_data():
+def upload_data():
 	df = pd.read_csv ('data/Generation_Consolidated.csv')
 	return df 
 
 
-df = load_data()
+df = upload_data()
 
 # Show Dataset
 if st.checkbox("Preview DataFrame"):

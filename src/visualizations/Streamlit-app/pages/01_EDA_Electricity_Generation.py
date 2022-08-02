@@ -27,12 +27,13 @@ st.markdown('* Wind Mill & Solar from TNEB only supplied electricity in the year
 # To Improve speed and cache data
 @st.cache(persist=True)
 @st.cache(allow_output_mutation=True)
-def load_data():
+def get_data():
 	df = pd.read_csv('data/electricity_generation_consolidated_supply_only.csv')
 	return df 
 
 
-df = load_data()
+df = get_data()
+
 
 # Show Dataset
 if st.checkbox("Preview DataFrame"):

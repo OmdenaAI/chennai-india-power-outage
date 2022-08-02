@@ -23,12 +23,12 @@ st.markdown('* Nilgiris district always had the biggest hydro power generation d
 # To Improve speed and cache data
 @st.cache(persist=True)
 @st.cache(allow_output_mutation=True)
-def load_data():
+def read02_data():
 	df = pd.read_csv('data/hydro_power_installed_capacity.csv',encoding='cp1252')
 	return df 
 
 
-df = load_data()
+df = read02_data()
 
 
 

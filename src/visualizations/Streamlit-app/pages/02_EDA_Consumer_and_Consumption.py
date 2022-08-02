@@ -19,14 +19,15 @@ st.text("Consumer and Consumption dataset")
 
 # EDA
 # To Improve speed and cache data
+@st.cache(allow_output_mutation=True)
 @st.cache(persist=True)
-def load_data():
+def get01_data():
 	
 	df = pd.read_csv ('data/electricity_consumption_consolidated.csv')
 	return df 
 
 
-df = load_data()
+df = get01_data()
 
 
 # Show Dataset
@@ -65,12 +66,6 @@ if data_dim == 'Columns':
 st.text("check for null values")
 st.write(df.isnull())
 
-#visualization analysis of the data
-st.header("Visualization analysis of the data")
-fig = plt.figure(figsize=(10,5))
-sns.set_style('whitegrid')
-sns.countplot(x='Category',data=df)
-st.pyplot(fig)
 
 #histogram plot by year
 st.text("Histogram plot by year")
@@ -78,20 +73,11 @@ fig, ax = plt.subplots()
 ax = df['Year'].hist(color='purple',bins=40,figsize=(10,4))
 st.pyplot(fig)
 
-#visual comparison between consumers and category
-st.text("Comparison between consumers and category")
-fig = plt.figure(figsize=(10,5))
-sns.barplot(x="Category Id", y="Consumers", hue='Category',data=df)
-st.pyplot(fig)
+
 
 #line plot by comparing category id and consumers
 #st.text("Comparing category id and consumers")
 #fig, ax = plt.subplots(figsize=(9,7))
 #ax = sns.relplot(data=df ,x="Category Id",y="Consumers", kind="line", markers=True)
 #st.pyplot(fig)
-
-st.title("Pairplot")
-fig, ax = plt.subplots(figsize=(9,7))
-fig = sns.pairplot(data=df, hue="Category")
-st.pyplot(fig)
 
