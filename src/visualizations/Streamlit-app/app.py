@@ -189,9 +189,8 @@ elif selected == 'Conclusion':
     st.subheader('TECH STACK')
 
     st.markdown('• Data Collection - Google Earth Datasets, Beautiful Soup, Selenium, public datasets () , websites', unsafe_allow_html=True)
-    st.markdown('• EDA - ', unsafe_allow_html=True)
-    st.markdown('• ', unsafe_allow_html=True) 
-    st.markdown('• Machine Learning - Python, Jupyter Notebooks, Time Series', unsafe_allow_html=True) 
+    st.markdown('• EDA - Generation of elecricity, cunsumer and consuption, demand and suply, power outage', unsafe_allow_html=True)
+    st.markdown('• Machine Learning - Python, Jupyter Notebooks,LSTM model, XGboost Model and Time Series', unsafe_allow_html=True) 
     st.markdown('• Dashboard - Streamlit, Tableau', unsafe_allow_html=True) 
 
     st.subheader('PROJECT SUMMARY')
@@ -244,7 +243,7 @@ elif selected == 'Team':
                 unsafe_allow_html=True)
     st.markdown('• <a href="https://www.linkedin.com/in/renju-zachariah-30982247/">Sudhakar</a>',
                 unsafe_allow_html=True)
-    st.markdown('• <a href="https://www.linkedin.com/in/ishita-kheria-20b1b31ab/">Christian</a>',
+    st.markdown('• <a href="https://www.linkedin.com/in/tsombouchris/">Christian</a>',
                 unsafe_allow_html=True)
     st.markdown('• <a href="https://www.linkedin.com/in/sairam-kannan-8648a0138/">Deepa</a>',
                 unsafe_allow_html=True)
@@ -258,13 +257,13 @@ elif selected == 'Team':
                 unsafe_allow_html=True)
     st.markdown('• <a href="https://www.linkedin.com/in/deepali-bidwai/">Abhay</a>',
                 unsafe_allow_html=True)
-    st.markdown('• <a href="https://www.linkedin.com/in/drij-chudasama-2a112a168/">Arpita</a>',
+    st.markdown('• <a href="https://www.linkedin.com/in/samuel-duah-boadi-8ab46944/">Samuel</a>',
                 unsafe_allow_html=True)  
     st.markdown('• <a href="https://www.linkedin.com/in/drij-chudasama-2a112a168/">Ruslan</a>',
                 unsafe_allow_html=True)
     st.markdown('• <a href="https://www.linkedin.com/in/drij-chudasama-2a112a168/">Saurabh Shetty</a>',
                 unsafe_allow_html=True)
-    st.markdown('• <a href="https://www.linkedin.com/in/drij-chudasama-2a112a168/">Alice</a>',
+    st.markdown('• <a href="https://www.linkedin.com/in/alice-agrawal/">Alice</a>',
                 unsafe_allow_html=True)
     st.markdown('• <a href="">Sanjay Santhakumar</a>',
                 unsafe_allow_html=True)
