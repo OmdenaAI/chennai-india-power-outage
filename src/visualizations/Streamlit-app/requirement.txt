@@ -1,0 +1,11 @@
+pip==22.2.1
+streamlit==1.11.0
+pandas
+numpy
+seaborn
+matplotlib
+datetime
+plotly
+pybase64
+Image
+statsmodels
