@@ -52,7 +52,7 @@ if st.button('LSTM Predict '):
     yhat = loaded_model.predict(features_df, verbose=0)
 
         
-    st.write(' Based on feature values, the peak demand load is '+ str(int(yhat)))
+    st.write(' Based on feature values, the peak demand load is **'+ str(int(yhat))+'**  MW')
     
     
     
