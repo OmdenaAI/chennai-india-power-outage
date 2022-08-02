@@ -255,7 +255,7 @@ elif selected == 'Team':
                 unsafe_allow_html=True)
     st.markdown('• <a href="https://www.linkedin.com/in/srivatchan-r-910ba31bb">Srivatsan</a>',
                 unsafe_allow_html=True)
-    st.markdown('• <a href="https://www.linkedin.com/in/deepali-bidwai/">Abhay</a>',
+    st.markdown('• <a href="Https://LinkedIn.com/in/abhaybhadani">Abhay</a>',
                 unsafe_allow_html=True)
     st.markdown('• <a href="https://www.linkedin.com/in/samuel-duah-boadi-8ab46944/">Samuel</a>',
                 unsafe_allow_html=True)  
