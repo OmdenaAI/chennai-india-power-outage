@@ -1,4 +1,5 @@
-#Import Libraries
+#Import Librariesfrom PIL import Image
+
 
 import pandas as pd
 import numpy as np
@@ -6,6 +7,8 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import plotly.express as px
 import streamlit as st
+from PIL import Image
+
 
 st.set_page_config(layout="wide")
 
@@ -73,6 +76,8 @@ fig, ax = plt.subplots()
 ax = df['Year'].hist(color='purple',bins=40,figsize=(10,4))
 st.pyplot(fig)
 
+image = Image.open('data/images/consumption_01.png')
+st.image(image, caption='visual comparison between consumers and category')
 
 
 #line plot by comparing category id and consumers
