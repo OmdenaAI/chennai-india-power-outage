@@ -110,7 +110,7 @@ elif selected == 'About':
     st.markdown('• Various Data sources were searched in Google Earth Engine and relevant sources were selected for our use-case.',unsafe_allow_html=True)
     st.markdown('• Extracted the power outage details  .',unsafe_allow_html=True)
     st.markdown('• Various Machine learning models were applied on the final dataframe and the metrics were analysed and the best model was &nbsp; &nbsp; chosen with having a good validation accuracy.',unsafe_allow_html=True)
-    st.markdown('• A visualisation dashboard is created for the public to enter coordinates, their region of interest(water-body) and the data range to &nbsp; get the outage details for that area along with data visualisation of the collected data from the satellites.',unsafe_allow_html=True)
+    st.markdown('• A visualisation dashboard is created for the public to enter the region of interest and the data range to &nbsp; get the outage details for that area along with data visualisation of the collected data from the satellites.',unsafe_allow_html=True)
 
     
 elif selected == 'Tableau Dashboard':
