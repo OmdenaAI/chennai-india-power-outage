@@ -6,6 +6,9 @@ from PIL import  Image
 from streamlit_option_menu import option_menu
 import webbrowser
 
+print(os.system('pwd'))
+print(os.system('ls -al'))
+
 st.set_page_config(
     page_title="Power Outage Analysis in Chennai, Tamilnadu",
     layout="wide",

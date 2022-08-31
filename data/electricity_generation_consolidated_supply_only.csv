@@ -1,0 +1,508 @@
+Type,Name,Net Generation(M.U),Year
+Gas,Basin Bridge,79.16,2010
+Gas,Kovil Kalappal,487.2,2010
+Gas,Vazhuthur I & II,1008.89,2010
+Gas,Kutralam,602.78,2010
+Gas,Wind Mill,11.09,2010
+Hydro,Pykara,63.92,2010
+Hydro,Pykara Mini Hydel,9.61,2010
+Hydro,PUSHEP,557.3,2010
+Hydro,Moyar,210.97,2010
+Hydro,Maravakandi Micro Hydel,1.21,2010
+Hydro,Parsons valley,65.14,2010
+Hydro,Kundah - 1,278.02,2010
+Hydro,Kundah - 2,733.42,2010
+Hydro,Kundah - 3,435.92,2010
+Hydro,Kundah - 4,166.71,2010
+Hydro,Kundah - 5,84.98,2010
+Hydro,Mettur Dam,82.26,2010
+Hydro,Mettur Tunnel,388.63,2010
+Hydro,LMHEP - Barrage-1,80.07,2010
+Hydro,LMHEP -Barrage-2,75.79,2010
+Hydro,LMHEP - Barrage-3,76.44,2010
+Hydro,LMHEP - Barrage-4,62.46,2010
+Hydro,Bhavani Kattalai PH-1,74.5,2010
+Hydro,Bhavanisagar RBC,26.75,2010
+Hydro,Bhavani Sagar Small,36.63,2010
+Hydro,Poonachi Micro,3.38,2010
+Hydro,Sathanur Micro,6.51,2010
+Hydro,Mukurthy Mini,2.18,2010
+Hydro,Thirumoorthy Mini,3.13,2010
+Hydro,Lower Aliyar,7.78,2010
+Hydro,Amaravathy,10.16,2010
+Hydro,Perunchani Mini,2.34,2010
+Hydro,Periyar,394.75,2010
+Hydro,Vaigai Small Hydel,10.37,2010
+Hydro,Suruliyar,98.63,2010
+Hydro,Papanasam,129.2,2010
+Hydro,Servalar,26.05,2010
+Hydro,Sarkarpathy,121.08,2010
+Hydro,Aliyar,165.69,2010
+Hydro,Kadamparai,496.72,2010
+Hydro,Sholayar-1,287.04,2010
+Hydro,Sholayar-2,63.52,2010
+Hydro,Kodayar-1,195.91,2010
+Hydro,Kodayar-2,83.17,2010
+Thermal,Ennore TPS,1217.64,2010
+Thermal,North Chennai TPS,4411.07,2010
+Thermal,Thoothukudi TPS,6543.42,2010
+Thermal,Mettur TPS,5868.25,2010
+Gas,Basin Bridge,49.534,2011
+Gas,Kovil Kalappal,605.037,2011
+Gas,Vazhuthur ,529.853,2011
+Gas,Vazhuthur phaseII,-2.601,2011
+Gas,Kuttalam,158.79,2011
+Gas,Wind Mill + Solar,1340.613,2011
+Gas,TNEB,12.676,2011
+Hydro,Pykara,28.661,2011
+Hydro,Pykara Micro Hydel,5.467,2011
+Hydro,PUSHEP,428.72,2011
+Hydro,Moyar,154.911,2011
+Hydro,Maravakandi Micro Hydel,1.982,2011
+Hydro,Parsons valley,39.18,2011
+Hydro,Kundah-1,255.092,2011
+Hydro,Kundah-2,655.977,2011
+Hydro,Kundah-3,387.923,2011
+Hydro,Kundah-4,136.84,2011
+Hydro,Kundah-5,60.416,2011
+Hydro,Mettur Dam,94.637,2011
+Hydro,Mettur Tunnel,265.371,2011
+Hydro,LMHEP-Barrage-1,70.981,2011
+Hydro,LMHEP-Barrage-2,65.978,2011
+Hydro,LMHEP-Barrage-3,66.531,2011
+Hydro,LMHEP-Barrage-4,56.162,2011
+Hydro,Bhavani Kattalai PH-1,71.225,2011
+Hydro,BhavanisagarRBC,20.709,2011
+Hydro,Bhavani Sagar Micro Hydel,32.98,2011
+Hydro,Poonachi Micro,4.496,2011
+Hydro,Sathanur Micro,10.189,2011
+Hydro,Mukurthy Mini,1.443,2011
+Hydro,Thirumoorthy Micro,3.799,2011
+Hydro,Lower Aliyar,8.533,2011
+Hydro,Amaravathy,8.691,2011
+Hydro,Perunchani ,2.677,2011
+Hydro,Periyar,428.739,2011
+Hydro,Vaigai Micro Hydel,15.135,2011
+Hydro,Periyar Vaigai Micro Hydel,1.039,2011
+Hydro,Suruliyar,97.747,2011
+Hydro,Papanasam,136.778,2011
+Hydro,Servalar,38.84,2011
+Hydro,Sarkarpathy,134.795,2011
+Hydro,Aliyar,162.921,2011
+Hydro,Kadamparai,568.952,2011
+Hydro,Sholayar-1,355.208,2011
+Hydro,Sholayar-2,56.962,2011
+Hydro,Kodayar-1,80.864,2011
+Hydro,Kodayar-2,64.172,2011
+Thermal,Ennore TPS,1175.988,2011
+Thermal,North Chennai TPS,4109.999,2011
+Thermal,Thoothukkudi TPS,6522.577,2011
+Thermal,Mettur TPS,5548.558,2011
+Gas,Basin Bridge,26.973,2012
+Gas,Kovil Kalappal,663.277,2012
+Gas,Vazhuthur,618.344,2012
+Gas,Valuthur phase II,408.299,2012
+Gas,Kuttalam,382.415,2012
+Gas,Wind Mill + Solar,,2012
+Gas,TNEB,12.148,2012
+Hydro,Pykara,39.188,2012
+Hydro,Pykara Micro Hydel,5.827,2012
+Hydro,Pushup,354.187,2012
+Hydro,Moyar,131.116,2012
+Hydro,Maravakandi Micro Hydel,0.751,2012
+Hydro,Parsonsvalley,35.704,2012
+Hydro,Kundah - 1,217.451,2012
+Hydro,Kundah - 2,577.02,2012
+Hydro,Kundah - 3,348.08,2012
+Hydro,Kundah - 4,156.401,2012
+Hydro,Kundah - 5,52.941,2012
+Hydro,Mettur Dam,153.204,2012
+Hydro,Mettur Tunnel,470.726,2012
+Hydro,LMHEP-Barrage-1,107.585,2012
+Hydro,LMHEP-Barrage-2,101.612,2012
+Hydro,LMHEP-Barrage-3,105.481,2012
+Hydro,LMHEP-Barrage-4,83.949,2012
+Hydro,Bhavani Kattalai PH - 1,97.156,2012
+Hydro,Bhavani Kattalai PH - 2,,2012
+Hydro,Bhavanisagar RBC,23.743,2012
+Hydro,Bhavani Sagar Micro Hydel,41.442,2012
+Hydro,Poonachi Micro,1.444,2012
+Hydro,Sathanur Micro,10.725,2012
+Hydro,Mukurthy Micro,1.478,2012
+Hydro,Thirumoorthy Micro,3.208,2012
+Hydro,Lower Aliyar,8.638,2012
+Hydro,Amaravathy,6.648,2012
+Hydro,Perunchani,0.933,2012
+Hydro,Periyar,533.254,2012
+Hydro,Vaigai Micro Hydel ,23.544,2012
+Hydro,Periyar Vaigai Micro Hydel I and II,7.867,2012
+Hydro,Suruliyar,115.18,2012
+Hydro,Papanasam,121.599,2012
+Hydro,Servalar,27.099,2012
+Hydro,Sarkarpathy,109.459,2012
+Hydro,Aliyar,173.908,2012
+Hydro,Kadamparai,506.532,2012
+Hydro,Sholayar-1,216.967,2012
+Hydro,Sholayar-2,60.96,2012
+Hydro,Kodayar-1,214.471,2012
+Hydro,Kodayar-2,81.255,2012
+Thermal,Ennore TPS,744.147,2012
+Thermal,North Chennai TPS,4300.947,2012
+Thermal,Tuticorin TPS,7261.89,2012
+Thermal,Mettur TPS,6279.633,2012
+Gas,Basin Bridge,-2.1702,2013
+Gas,Kovil Kalappal,678.372,2013
+Gas,Vazhuthur,421.6841,2013
+Gas,Valuthur phase II,455.0372,2013
+Gas,Kuttalam,49.472,2013
+Gas,Sub Total Wind Mill and Solar,1602.3951,2013
+Gas,TNEB,12.66,2013
+Hydro,Pykara,39.27,2013
+Hydro,Pykara Micro Hydel,3.617,2013
+Hydro,Pushep,193.409,2013
+Hydro,Moyar,77.468,2013
+Hydro,Maravakandi Micro Hydel,0.692,2013
+Hydro,Parsonsvalley,30.012,2013
+Hydro,Kundah - 1,180.589,2013
+Hydro,Kundah - 2,453.174,2013
+Hydro,Kundah - 3,262.836,2013
+Hydro,Kundah - 4,70.831,2013
+Hydro,Kundah - 5,42.719,2013
+Hydro,Mettur Dam,83.051,2013
+Hydro,Mettur Tunnel,119.77,2013
+Hydro,LMHEP-Barrage-1,45.877,2013
+Hydro,LMHEP-Barrage-2,40.366,2013
+Hydro,LMHEP-Barrage-3,39.69,2013
+Hydro,LMHEP-Barrage-4,30.098,2013
+Hydro,Bhavani Kattalai PH – 1,70.139,2013
+Hydro,Bhavani Kattalai PH – 2,,2013
+Hydro,Bhavanisagar RBC,0.057,2013
+Hydro,Bhavani Sagar Micro Hydel,16.067,2013
+Hydro,Poonachi Micro,1.662,2013
+Hydro,Sathanur Micro,5.04,2013
+Hydro,Mukurthy Micro,1.12,2013
+Hydro,Thirumoorthy Micro,1.938,2013
+Hydro,Lower Aliyar,3.975,2013
+Hydro,Amaravathy,2.225,2013
+Hydro,Perunchani,0.237,2013
+Hydro,Periyar,177.928,2013
+Hydro,Vaigai Micro Hydel ,3.116,2013
+Hydro,Periyar Vaigai Micro Hydel I & II,1.807,2013
+Hydro,Suruliyar,49.081,2013
+Hydro,Papanasam,62.641,2013
+Hydro,Servalar,9.546,2013
+Hydro,Sarkarpathy,83.589,2013
+Hydro,Aliyar,76.231,2013
+Hydro,Kadamparai,297.304,2013
+Hydro,Sholayar-1,145.081,2013
+Hydro,Sholayar-2,56.358,2013
+Hydro,Kodayar-1,74.733,2013
+Hydro,Kodayar-2,31.289,2013
+Hydro,Total Hydro,2884.63,2013
+Thermal,Ennore TPS,610.232,2013
+Thermal,North Chennai TPS,4633.506,2013
+Thermal,Tuticorin TPS,7620.485,2013
+Thermal,Mettur TPS,5684.454,2013
+Thermal,NCTPS Stage-II (Infirm) ,,2013
+Thermal,NCTPS Stage-III (Infirm) ,,2013
+Thermal,Total Thermal,18548.7,2013
+Gas,Basin Bridge,9.526,2016
+Gas,Kovil Kalappal,363.681,2016
+Gas,Vazhuthur,675.719,2016
+Gas,Valuthur Phase II,,2016
+Gas,Kuttalam,518.479,2016
+Hydro,Pykara,56.153,2016
+Hydro,Pykara Micro Hydel,5.438,2016
+Hydro,PUSHEP,279.237,2016
+Hydro,Moyar,115.642,2016
+Hydro,Maravakandi Micro Hydel,0.971,2016
+Hydro,Kundah – 6 (Parsons valley),25.498,2016
+Hydro,Kundah - 1,229.645,2016
+Hydro,Kundah – 2,619.67,2016
+Hydro,Kundah – 3,364.173,2016
+Hydro,Kundah – 4,117.325,2016
+Hydro,Kundah – 5,37.607,2016
+Hydro,Mettur Dam,92.138,2016
+Hydro,Mettur Tunnel,245.864,2016
+Hydro,LMHEP-Barrage-1,40.44,2016
+Hydro,LMHEP-Barrage-2,62.221,2016
+Hydro,LMHEP-Barrage-3,63.394,2016
+Hydro,LMHEP-Barrage-4,53.858,2016
+Hydro,Bhavani Kattalai PH-1,164.438,2016
+Hydro,Bhavani Kattalai PH-2,,2016
+Hydro,Bhavani Kattalai PH-3,,2016
+Hydro,Bhavani Barrage 2 PH,,2016
+Hydro,Bhavani Barrage 2 PH,,2016
+Hydro,Bhavanisagar RBC,7.164,2016
+Hydro,Bhavani Sagar Micro Hydel,30.008,2016
+Hydro,Poonachi Micro,3.199,2016
+Hydro,Sathanur Micro,10.705,2016
+Hydro,Mukurthy Micro,0.289,2016
+Hydro,Thirumoorthy Micro,1.163,2016
+Hydro,Lower Aliyar,8.005,2016
+Hydro,Amaravathy,4.845,2016
+Hydro,Perunchani,1.255,2016
+Hydro,Periyar,503.076,2016
+Hydro,Vaigai Micro Hydel,17.935,2016
+Hydro,"Periyar Vaigai Micro, I,  II & III",18.767,2016
+Hydro,Suruliyar,92.035,2016
+Hydro,Papanasam,115.745,2016
+Hydro,Servalar,38.925,2016
+Hydro,Sarkarpathy,79.113,2016
+Hydro,Aliyar,152.409,2016
+Hydro,Kadamparai,411.058,2016
+Hydro,Sholayar-1,206.633,2016
+Hydro,Sholayar-2,56.56,2016
+Hydro,Kodayar-1,192.269,2016
+Hydro,Kodayar-2,85.547,2016
+Thermal,Ennore TPS,347.36,2016
+Thermal,North Chennai TPS,4046.394,2016
+Thermal,Tuticorin TPS,6501.373,2016
+Thermal,Mettur TPS,5471.328,2016
+Thermal,NCTPS Stage - II,6031.957,2016
+Thermal,MTPS Stage – III,3674.164,2016
+Wind Mill + Solar,TNEB,,2016
+Gas,Basin Bridge,10.469,2017
+Gas,Kovil Kalappal,308.967,2017
+Gas,Vazhuthur Phase I,647.254,2017
+Gas,Valuthur Phase II,259.74,2017
+Gas,Kuttalam (Wind Mill + Solar),335.927,2017
+Gas,TNEB,0,2017
+Hydro,Pykara,12.498,2017
+Hydro,Pykara Micro Hydel,3.301,2017
+Hydro,PUSHEP,191.753,2017
+Hydro,Moyar,48.973,2017
+Hydro,Maravakandi Micro Hydel,0.321,2017
+Hydro,Kundah - 6 (Parsons valley),23.986,2017
+Hydro,Kundah - 1,156.81,2017
+Hydro,Kundah - 2,406.077,2017
+Hydro,Kundah - 3,213.42,2017
+Hydro,Kundah - 4,47.171,2017
+Hydro,Kundah - 5,43.215,2017
+Hydro,Mettur Dam,44.162,2017
+Hydro,Mettur Tunnel,80.35,2017
+Hydro,LMHEP-Barrage-1,21.868,2017
+Hydro,LMHEP-Barrage-2,23.593,2017
+Hydro,LMHEP-Barrage-3,25.115,2017
+Hydro,LMHEP-Barrage-4,19.486,2017
+Hydro,Bhavani Kattalai PH-1,58.472,2017
+Hydro,Bhavani Kattalai PH-2,,2017
+Hydro,Bhavani Kattalai PH-3,,2017
+Hydro,Bhavani Barrage 2 PH,2.42,2017
+Hydro,Bhavani Barrage PH,2.62,2017
+Hydro,Bhavanisagar RBC,-0.003,2017
+Hydro,Bhavani Sagar Micro Hydel,18.192,2017
+Hydro,Poonachi Micro,1.722,2017
+Hydro,Sathanur Micro,0.41,2017
+Hydro,Mukurthy Micro,0.262,2017
+Hydro,Thirumoorthy Micro,1.359,2017
+Hydro,Lower Aliyar,-0.013,2017
+Hydro,Amaravathy,0.77,2017
+Hydro,Perunchani,-0.013,2017
+Hydro,Periyar,93.091,2017
+Hydro,Vaigai Micro Hydel,1.654,2017
+Hydro,"Periyar Vaigai Micro I, II & III",1.877,2017
+Hydro,Suruliyar,41.918,2017
+Hydro,Papanasam,65.709,2017
+Hydro,Servalar,11.862,2017
+Hydro,Sarkarpathy,63.188,2017
+Hydro,Aliyar,61.221,2017
+Hydro,Kadamparai,286.74,2017
+Hydro,Sholayar-1,183.806,2017
+Hydro,Sholayar-2,42.577,2017
+Hydro,Kodayar-1,126.797,2017
+Hydro,Kodayar-2,42.011,2017
+Thermal,Ennore TPS*,144.158,2017
+Thermal,North Chennai TPS-1,3365.746,2017
+Thermal,Tuticorin TPS,5089.655,2017
+Thermal,Mettur TPS-1,5239.703,2017
+Thermal,NCTPS Stage - II,5912.396,2017
+Thermal,MTPS Stage - II,3212.699,2017
+Gas,Basin Bridge,5.223,2018
+Gas,Kovil Kalappal,265.651,2018
+Gas,Vazhuthur Phase I,636.07,2018
+Gas,Vazhuthur Phase II,564.317,2018
+Gas,Kuttalam,305.22,2018
+Hydro,Pykara,0.8,2018
+Hydro,Pykara Micro Hydel,4.732,2018
+Hydro,PUSHEP,272.012,2018
+Hydro,Moyar,93.867,2018
+Hydro,Maravakandi Micro Hydel,0.76,2018
+Hydro,Kundah - 6 (Parsons Valley),26.954,2018
+Hydro,Kundah - 1,124.825,2018
+Hydro,Kundah - 2,373.805,2018
+Hydro,Kundah - 3,182.246,2018
+Hydro,Kundah - 4,76.17,2018
+Hydro,Kundah - 5,45.832,2018
+Hydro,Mettur Dam,50.388,2018
+Hydro,Mettur Tunnel,162.821,2018
+Hydro,LMHEP - Barrage - 1,28.853,2018
+Hydro,LMHEP - Barrage - 2,29.574,2018
+Hydro,LMHEP - Barrage - 3,38.87,2018
+Hydro,LMHEP - Barrage - 4,31.95,2018
+Hydro,"Bhavani Kattalai PH - 1, PH - 2 and PH - 3",74.594,2018
+Hydro,Bhavani Barrage 2 PH,,2018
+Hydro,Bhavani Barrage PH,,2018
+Hydro,Bhavanisagar RBC,4.542,2018
+Hydro,Bhavani Sagar Micro Hydel,14.865,2018
+Hydro,Poonachi Micro,0.42,2018
+Hydro,Sathanur Micro,13.148,2018
+Hydro,Mukurthy Micro,0.76,2018
+Hydro,Thirumoorthy Micro,1.78,2018
+Hydro,Lower Aliyar,3.284,2018
+Hydro,Amaravathy,4.797,2018
+Hydro,Perunchani,0.12,2018
+Hydro,Periyar,286.225,2018
+Hydro,Vaigai Micro Hydel,6.578,2018
+Hydro,"Periyar Vaigai Micro, I, II and III",18.925,2018
+Hydro,Suruliyar,70.345,2018
+Hydro,Papanasam,114.107,2018
+Hydro,Servalar,26.407,2018
+Hydro,Sarkarpathy,85.369,2018
+Hydro,Aliyar,89.749,2018
+Hydro,Kadamparai,381.301,2018
+Hydro,Sholayar - 1,101.238,2018
+Hydro,Sholayar - 2,60.426,2018
+Hydro,Kodayar - 1,82.113,2018
+Hydro,Kodayar - 2,50.196,2018
+Thermal,Ennore TPS,,2018
+Thermal,North Chennai TPS-1,3824.139,2018
+Thermal,Tuticorin TPS,4812.817,2018
+Thermal,Mettur TPS - 1,4666.672,2018
+Thermal,NCTPS Stage - II,5447.47,2018
+Thermal,MTPS Stage - III,2273.059,2018
+Wind Mill + Solar,TNEB,6.915,2018
+Gas,Basin Bridge,0.06,2019
+Gas,Kovil Kalappal,225.46,2019
+Gas,Valuth Phurase I,576.71,2019
+Gas,Valuthur Phase II,549.24,2019
+Gas,Kuttalam,367.55,2019
+Gas,Wind Mill + Solar,,2019
+Gas,TNEB,3.28,2019
+Hydro,Pykara,21.79,2019
+Hydro,Pykara Micro Hydel,8.35,2019
+Hydro,PUSHEP,504.86,2019
+Hydro,Moyar,161.49,2019
+Hydro,Maravakandy Micro Hydel,0.85,2019
+Hydro,Kundah - 6 (Parsons valley),45.78,2019
+Hydro,Kundah - 1,270.05,2019
+Hydro,Kundah - 2,677.91,2019
+Hydro,Kundah - 3,395.67,2019
+Hydro,Kundah - 4,148.21,2019
+Hydro,Kundah - 5,89.58,2019
+Hydro,Mettur Dam,147.69,2019
+Hydro,Mettur Tunnel,439.93,2019
+Hydro,LMHEP-Barrage - 1,68.68,2019
+Hydro,LMHEP-Barrage - 2,30.4,2019
+Hydro,LMHEP-Barrage - 3,64.42,2019
+Hydro,LMHEP-Barrage - 4,52.82,2019
+Hydro,Bhavani Kattalai PH - 1,69.05,2019
+Hydro,Bhavani Kattalai PH - 2,76.66,2019
+Hydro,Bhavani Kattalai PH - 3,35.6,2019
+Hydro,Bhavani Barrage 2 PH,6.27,2019
+Hydro,Bhavani Barrage 1 PH,3.58,2019
+Hydro,Bhavani Sagar RBC,18.71,2019
+Hydro,Bhavani Sagar Micro Hydel,30.98,2019
+Hydro,Poonachi Micro,3.12,2019
+Hydro,Sathanur Micro,6.26,2019
+Hydro,Mukurthi Micro,1.44,2019
+Hydro,Thirumoorthy Micro,2.82,2019
+Hydro,Lower Aliyar,5.92,2019
+Hydro,Amaravathy,9.43,2019
+Hydro,Perunchani,2.96,2019
+Hydro,Periyar,701.21,2019
+Hydro,Vaigai Micro Hydel,23.06,2019
+Hydro,"Periyar Vaigai Micro I, II, III and IV",44.3,2019
+Hydro,Suruliyar,92.27,2019
+Hydro,Papanasam,120.6,2019
+Hydro,Servalar,43.16,2019
+Hydro,Sarkarpathy,129.57,2019
+Hydro,Aliyar,48.29,2019
+Hydro,Kadamparai,431.43,2019
+Hydro,Sholayar - 1,177.47,2019
+Hydro,Sholayar - 2,43.13,2019
+Hydro,Kodayar - 1,143.71,2019
+Hydro,Kodayar - 2,50.24,2019
+Thermal,Ennore TPS (Permanently under shut down from 31.3.2018),,2019
+Thermal,North Chennai TPS - 1,3632.76,2019
+Thermal,Tuticorin TPS,5807.85,2019
+Thermal,Mettur TPS - 1 NCTPS,5314.34,2019
+Thermal,Stage - II,6284.92,2019
+Thermal,MTPS Stage - II,2934.69,2019
+Gas,Kovil Kalappal,333.833,2020
+Gas,Kuttalam,477.747,2020
+Hydro,Pykara,0.6,2020
+Hydro,Moyar,117.128,2020
+Hydro,Kundah - 1,302.629,2020
+Hydro,Kundah - 2,763.303,2020
+Hydro,Kundah - 3,447.752,2020
+Hydro,Kundah - 4,136.033,2020
+Hydro,Kundah - 5,89.863,2020
+Hydro,Mettur Dam,131.96,2020
+Hydro,Mettur Tunnel,376.862,2020
+Hydro,LMHEP - Barrage - 1,80.836,2020
+Hydro,LMHEP - Barrage - 2,81.311,2020
+Hydro,LMHEP - Barrage - 3,81.406,2020
+Hydro,LMHEP - Barrage - 4,68.573,2020
+Hydro,"Bhavani Kattalai PH - 1, PH - 2 and PH - 3",107.696,2020
+Hydro,Bhavani Barrage 2 PH,89.35,2020
+Hydro,Bhavani Barrage PH,59.49,2020
+Hydro,Periyar,507.635,2020
+Hydro,Suruliyar,92.633,2020
+Hydro,Papanasam,129.967,2020
+Hydro,Aliyar,136.91,2020
+Hydro,Kadamparai,427.948,2020
+Hydro,Kodayar - 1,164.083,2020
+Hydro,Kodayar - 2,75.036,2020
+Thermal,Tuticorin TPS,4060.577,2020
+Gas,Kovil Kalappal,156.443,2021
+Gas,Kuttalam,425.577,2021
+Hydro,Pykara,32.896,2021
+Hydro,Moyar,156.898,2021
+Hydro,Kundah - 1,329.299,2021
+Hydro,Kundah - 2,872.983,2021
+Hydro,Kundah - 3,565.262,2021
+Hydro,Kundah - 4,273.273,2021
+Hydro,Kundah - 5,77.883,2021
+Hydro,Mettur Dam,186.68,2021
+Hydro,Mettur Tunnel,625.352,2021
+Hydro,LMHEP - Barrage - 1,117.366,2021
+Hydro,LMHEP - Barrage - 2,108.251,2021
+Hydro,LMHEP - Barrage - 3,116.016,2021
+Hydro,LMHEP - Barrage - 4,98.403,2021
+Hydro,"Bhavani Kattalai PH - 1, PH - 2 and PH - 3",125.316,2021
+Hydro,Bhavani Barrage 2 PH,127.41,2021
+Hydro,Bhavani Barrage PH,99.38,2021
+Hydro,Periyar,1039.165,2021
+Hydro,Suruliyar,101.073,2021
+Hydro,Papanasam,216.847,2021
+Hydro,Aliyar,94.62,2021
+Hydro,Kadamparai,444.608,2021
+Hydro,Kodayar - 1,140.663,2021
+Hydro,Kodayar - 2,91.326,2021
+Thermal,Tuticorin TPS,6374.707,2021
+Gas,Kovil Kalappal,20.783,2022
+Gas,Kuttalam,74.387,2022
+Hydro,Pykara,0.7,2022
+Hydro,Moyar,35.348,2022
+Hydro,Kundah - 1,92.489,2022
+Hydro,Kundah - 2,225.453,2022
+Hydro,Kundah - 3,136.182,2022
+Hydro,Kundah - 4,21.243,2022
+Hydro,Kundah - 5,21.853,2022
+Hydro,Mettur Dam,36.74,2022
+Hydro,Mettur Tunnel,37.142,2022
+Hydro,LMHEP - Barrage - 1,12.536,2022
+Hydro,LMHEP - Barrage - 2,12.571,2022
+Hydro,LMHEP - Barrage - 3,11.096,2022
+Hydro,LMHEP - Barrage - 4,8.313,2022
+Hydro,"Bhavani Kattalai PH - 1, PH - 2 and PH - 3",9.396,2022
+Hydro,Bhavani Barrage 2 PH,11.63,2022
+Hydro,Bhavani Barrage PH,7.12,2022
+Hydro,Periyar,121.485,2022
+Hydro,Papanasam,40.477,2022
+Hydro,Aliyar,30.5,2022
+Hydro,Kadamparai,127.218,2022
+Hydro,Kodayar - 1,90.463,2022
+Hydro,Kodayar - 2,7.326,2022
+Thermal,Tuticorin TPS,7239.957,2022
